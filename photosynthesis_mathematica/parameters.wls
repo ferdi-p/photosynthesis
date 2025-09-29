@@ -27,7 +27,8 @@ LNPQmax->2000,
 
 \[Phi]DpX->28,
 \[Phi]DpD->28,
-\[Phi]DpT->180,(*
+\[Phi]DpT->180,
+\[Phi]DcX->0,(*
 \[Phi]DpTD->50,*)
 
 \[Phi]R-> 3600^-1(*(2 3600)^-1*) totalp,

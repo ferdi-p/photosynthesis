@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[    660814,      13147]
-NotebookOptionsPosition[    659426,      13115]
-NotebookOutlinePosition[    659840,      13132]
-CellTagsIndexPosition[    659797,      13129]
+NotebookDataLength[    685833,      13648]
+NotebookOptionsPosition[    684216,      13612]
+NotebookOutlinePosition[    684630,      13629]
+CellTagsIndexPosition[    684587,      13626]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -34,7 +34,7 @@ Cell[BoxData[
    3.9653025747118196`*^9, 3.965302630158815*^9}, 3.965305307908043*^9, {
    3.968104796069276*^9, 3.968104833404085*^9}, {3.9681049877111683`*^9, 
    3.968104995570972*^9}, 3.968107295936152*^9},
- CellLabel->"In[1]:=",ExpressionUUID->"0e5d538e-e191-4874-bd85-d21c4c3f8970"],
+ CellLabel->"In[77]:=",ExpressionUUID->"0e5d538e-e191-4874-bd85-d21c4c3f8970"],
 
 Cell[BoxData[
  RowBox[{"\[IndentingNewLine]", 
@@ -48,7 +48,7 @@ Cell[BoxData[
     ";"}]}]}]], "Input",
  CellChangeTimes->{{3.968107330373659*^9, 3.96810739556065*^9}, {
   3.968107527378724*^9, 3.968107537716856*^9}},
- CellLabel->"In[5]:=",ExpressionUUID->"30c93b66-8375-4ee6-b22f-9359f7c1da68"],
+ CellLabel->"In[78]:=",ExpressionUUID->"30c93b66-8375-4ee6-b22f-9359f7c1da68"],
 
 Cell[CellGroupData[{
 
@@ -146,8 +146,9 @@ Cell[BoxData[
    3.966698430287291*^9, 3.966698522836442*^9}, {3.966698574401641*^9, 
    3.9666985783891582`*^9}, {3.96669895331861*^9, 3.9666989534913197`*^9}, {
    3.966699009903638*^9, 3.966699036407098*^9}, {3.9670480508247843`*^9, 
-   3.967048058038492*^9}, 3.9680856012018547`*^9},
- CellLabel->"In[2]:=",ExpressionUUID->"8dead499-f180-40e4-90fc-ca416d0ecf1b"],
+   3.967048058038492*^9}, 3.9680856012018547`*^9, {3.968157973171009*^9, 
+   3.96815799913798*^9}},
+ CellLabel->"In[94]:=",ExpressionUUID->"8dead499-f180-40e4-90fc-ca416d0ecf1b"],
 
 Cell[BoxData[
  GraphicsBox[{{{}, 
@@ -344,7 +345,7 @@ X97//Q9eU4YT
              "Frame" -> {{True, None}, {True, None}}, 
              "AxesOrigin" -> {0., 0.}, 
              "ImageSize" -> {
-              55 + 110 GoldenRatio, GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+              85 + 110 GoldenRatio, GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
              "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13}, 
              "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                Directive[
@@ -369,7 +370,7 @@ X97//Q9eU4YT
             "PlotRange" -> {{0., 36.}, {0., 0.6498975540885422}}, 
             "Frame" -> {{True, None}, {True, None}}, "AxesOrigin" -> {0., 0.},
              "ImageSize" -> {
-             55 + 110 GoldenRatio, GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+             85 + 110 GoldenRatio, GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
             "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13}, 
             "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
               Directive[
@@ -420,7 +421,7 @@ X97//Q9eU4YT
          "PlotRange" -> {{0., 36.}, {0., 0.6498975540885422}}, 
          "Frame" -> {{True, None}, {True, None}}, "AxesOrigin" -> {0., 0.}, 
          "ImageSize" -> {
-          55 + 110 GoldenRatio, GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+          85 + 110 GoldenRatio, GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
          "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13}, 
          "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
            Directive[
@@ -551,8 +552,8 @@ X97//Q9eU4YT
    3.9666985793116217`*^9}, 3.966698954000033*^9, 3.96669903737285*^9, 
    3.9670351511187468`*^9, 3.96704805875249*^9, 3.968085278619143*^9, 
    3.968085570707272*^9, 3.968085602134954*^9, {3.9681073007753363`*^9, 
-   3.968107311402075*^9}},
- CellLabel->"Out[2]=",ExpressionUUID->"c26d1e8d-2a6d-4d91-bf94-f8837df3106e"]
+   3.968107311402075*^9}, 3.968154443410469*^9, 3.96815800124433*^9},
+ CellLabel->"Out[94]=",ExpressionUUID->"c5c83d67-a6ec-4624-b118-8e9ff11ec7a1"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -657,7 +658,7 @@ Cell[BoxData[
   3.966699045275551*^9}, {3.96704806399741*^9, 3.967048067213669*^9}, {
   3.968085343775338*^9, 3.968085366929709*^9}, {3.968085397051498*^9, 
   3.968085563458931*^9}},
- CellLabel->"In[3]:=",ExpressionUUID->"7484f472-1431-411f-8266-207b8ce7d3e7"],
+ CellLabel->"In[95]:=",ExpressionUUID->"7484f472-1431-411f-8266-207b8ce7d3e7"],
 
 Cell[BoxData[
  GraphicsBox[{{{}, 
@@ -916,7 +917,7 @@ lOl4Ff9o0GTzPyhDkwM=
              "Frame" -> {{True, None}, {True, None}}, 
              "AxesOrigin" -> {0., 0.}, 
              "ImageSize" -> {
-              55 + 110 GoldenRatio, GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+              85 + 110 GoldenRatio, GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
              "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13}, 
              "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                Directive[
@@ -941,7 +942,7 @@ lOl4Ff9o0GTzPyhDkwM=
             "PlotRange" -> {{0., 10.}, {-0.03428571428571428, 0.72}}, 
             "Frame" -> {{True, None}, {True, None}}, "AxesOrigin" -> {0., 0.},
              "ImageSize" -> {
-             55 + 110 GoldenRatio, GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+             85 + 110 GoldenRatio, GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
             "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13}, 
             "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
               Directive[
@@ -1028,7 +1029,7 @@ lOl4Ff9o0GTzPyhDkwM=
          "PlotRange" -> {{0., 10.}, {-0.03428571428571428, 0.72}}, 
          "Frame" -> {{True, None}, {True, None}}, "AxesOrigin" -> {0., 0.}, 
          "ImageSize" -> {
-          55 + 110 GoldenRatio, GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+          85 + 110 GoldenRatio, GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
          "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13}, 
          "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
            Directive[
@@ -1159,8 +1160,412 @@ lOl4Ff9o0GTzPyhDkwM=
    3.967035153574594*^9, 3.967048069106371*^9, 3.968085280944038*^9, {
    3.968085326634439*^9, 3.968085367573786*^9}, 3.968085397913555*^9, {
    3.968085439452735*^9, 3.968085514202458*^9}, {3.968085552787361*^9, 
-   3.968085564046257*^9}, 3.9680856057978907`*^9, 3.968107315293242*^9},
- CellLabel->"Out[3]=",ExpressionUUID->"03fe4a86-9cc7-477a-a044-bb3498cfaf6c"]
+   3.968085564046257*^9}, 3.9680856057978907`*^9, 3.968107315293242*^9, 
+   3.9681544454429283`*^9, 3.9681579639777*^9, 3.968158002958544*^9},
+ CellLabel->"Out[95]=",ExpressionUUID->"f8953a7b-c0eb-49a5-9bcd-dd66f5fa92cc"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{
+   RowBox[{"makeOneSimulationSteadyStatePlot", "[", 
+    RowBox[{
+     RowBox[{"pars", "[", 
+      RowBox[{"-", "6"}], "]"}], ",", "L", ",", "Lrange", ",", 
+     RowBox[{"{", "#", "}"}], ",", 
+     RowBox[{"24", " ", "3600"}], ",", 
+     RowBox[{"{", 
+      RowBox[{
+       RowBox[{"PlotLabel", "->", "#"}], "/.", "names"}], "}"}]}], "]"}], 
+   "&"}], "@", "cX"}]], "Input",
+ CellChangeTimes->{{3.9681544697695827`*^9, 3.9681544804420547`*^9}},
+ CellLabel->"In[87]:=",ExpressionUUID->"be75bff5-063f-4c0a-a71e-5afdf1954612"],
+
+Cell[BoxData[
+ GraphicsBox[{{}, 
+   InterpretationBox[{
+     TagBox[{{}, {}, 
+       TagBox[
+        {RGBColor[0.24, 0.6, 0.8], PointSize[0.009166666666666668], 
+         AbsoluteThickness[3], LineBox[CompressedData["
+1:eJxt0XlYzIsaB/BCTlxO4elWsuTamnNCZKmc6huHEydahOh0SkQiJaUimvam
+RTMtszTV/NqmEhnbMULGkvajLClapnJJlparcJ047jPvn3eeZ555Ps877++d
+73znePo5eY1RU1Nr//b+3+f/f83DtpGoS+frLaxUXo7pGbJZgqCNZCtwWluY
+CMkW8s9oiNU3Zr3YQd6Adr0fqngTPMib8b1Vg/pEnd0qsx0xvmfezXG6e2nu
+jIZNQUvva++n+TZIYxJnx489SPMdcFpr2mk0cIjmrlh5NmrWvdf+NP8dbfbS
+AXO3AJXhgWDXXbb36o/Q93chINeiXm4RpLLCE4KdrOrtRUdpfw885k1y6Jka
+QvteWM9evIh/IpT294J9v7NE+vIY7e+DxvDiVb84htH+fhzU0xyVlp+gfR+s
+1rbfPjQ3nPYPoLS5RlKynk37B2EWXPU45DNZ7RCE9e4DobII2veDdOYF95te
+kWR/NExfpu5qEKWy0h+27Po1vzeR2YcR3Fq8+mlctMqGAeD4LazrtIqhewF4
+ZC0+Fz5C9jgCgUtgfm1ZLN0PRM3rgKCmfXEqM4Ewn3nDsHBOPN0PwsPFFq+2
+tZGVQZjOjDn6UcCh+0fhn8x+I3ZOoPvBENrc1nKemkj3g/HIZprn8iayRwhq
+8g6vd+Ql0f1Q6Hl6GCmckul+KCqf9RcJdE7R/WP46eWdqv5WsvIY9izZPLdb
+kkL3j+NL4x79SlMu3Q/D0Pii25FCsiIM2y2Tvrf4QvY4AZd3+bv+2sOj+yex
+8PiU8rZ6MnMSWg2iof4VqXQ/HNvyOsdsYsjKcNiWX3SdPCmN5my0l4rtNoWS
+uWy8/XQnwLiXrGQjwDLY6U+XdJVNIrD7xMEPO+vI7AgYHX1Y9dU6Q+XGCGh0
+6wYO/EE2jES3PNvQ24Svsn8kFBp3q06fISsi4a1TOTjeWKCydhSMLd9deFJG
+9ojC9JbwhXErhCrLosDdXbODpyCrRcNH5imPcxCp7BCNV3MT1HRekJlorJg2
+wFePzFR5IBq9ZWc7V80XU/4YGNZUvq5qJHNj4PKYNfZVTBblj0GaJK98ZF02
+5Y/FGa+uDq+pOZQ/FmbDO3hn3pAbY3FxiJOk3yyh/HF412SzpWEfQ/nj8MvK
+AP2KN2RFHPiTdLaIQ3Mpfzze9BSvuzA5j/LHo+pD4duRIrIsHnPLP3Yu+iWf
+8nPQrh29Y3of2YED57dO3+WmFFB+DrY96njeurKQ8nMgcp1qOq2TjAR4ur48
+VxcnpfwJWHKlyqHEpIjyJ2Dzpq1/+rWSTRKx4f6shI8RxZQ/EfkaxquMfyih
+/IkYMevQ/9JENkxCVHWA1Dv0NOVPgttJde0DhqWUPwmdUtP876rI2snQTBUK
+1vieofzJmKpzdcOcaWcpfzKKbhSVlsjJaqcw/GhwsMutjPKfQofuLPvGMeco
+/yns/ZT58FgReeDbXMu88D/zZZQ/BfNF93Imh5C5Keif+KR/ci1ZmQL3oTaN
+DwbnVdbj4uBhLKjzJYOL4xNtfZJukr25aPiUWfPTlAv0PC5i/8Wa0uFJlnPx
++f7n14cvkZVc2L+92vtJ46LKmjyU/dPtSPB2sgkPHL5T1+tisgsPaisf7XX5
+L5nNQ1NvHqvi10sqF/OQxtQum5VNbuRBOrYgLPQd+SMPe6ID+xqtL1M/qfj5
+Hzyn+TyybSpsSvzCgrvJ/qm4vjZxRrXpHyoLU9G6RNatG0NWpEKoscZnXzO5
+NxUP2mp/vbLwCvWZhnP7r2lphpLN0uCb7bxqZy3ZIw3ymFtWZQZylePTEHzN
+VDjOlyxLw7N2/1K3CnJLGuyUBj1Xta5S/+loCe4T6O8iG6Vjwa0XrBMXyA7p
+MF3k3vd8bLnKIenoHd35g+NWMpOO58POZrel5Opv1m3bafaRPJCOZ2vTnl7c
+cI36z8CKNqOR5WIyMhAstRu89obsnYGwD3vHb7C6Tv1nILtd4N+WQpZnYPWG
+zz5Hu8jKb88bDPxR1/QG9c/H7peHeiuiySZ81L5c9di3mezCh5XBj/PmGVVQ
+/3w4pxVodIeSi/kY4SjLiurIjXyEiPZvDJp5k/rno89gzeRf/ciGAtQa2M1m
+3SLbChDwybo1boKC+hcgQzvxePgyslCA6y92Jx53JSsEsEvyMwyLJvcKUD78
+zD7iLFlbiNGXd00Tm8lmQhx+0qQUfSV7CLHd2sr3rNEt6l+It82tg5WOZJkQ
+fSXFMT3HyC1CuCdZ2owvIKuJcPuE4erFDWQjEQauuiS5jpAdRHCourP51Ozb
+1L8IX75WZ96zJTMiXPCfnjAugFwtgt7QG3NbMXlAhDvb6hW8u2S9TFiyuiy6
+3pKRiTW57dUrde9Q/5noe3cmKhVkbiZaHrKS3u8nyzMhK2d/+S2NrMzEqV7L
+z3XXyZpimO+3KLB5QTYRY1k3X79C6y71L4bdfEmYjTmZLcZBtny4zpNcLMbW
+fiupWxK5UYyVccIrI5fJH8V4mmVuL+gkG2ahq+A933pCJfWfhcUm7uX9y8j+
+WWDtdesp+o0szILmE/k671iyIgtxjz0nLZWRe7MwukndZ8xTsnY28sTVGW1j
+71H/2Qg4kHPn5iKyRzZKvXYsObOdHJ8NRfM4rbwIsiwb+Y32hbml5JZsXJxz
+w6T0MVktB/4+hiMVX8lGOdjHMlvdzqqi/nOgvljHbrwzOSQHGzuehlicJDM5
+EG6+pHWsmFydg3UdCT6VD8gDOd/+H7ueGaNkPQme52x9yl5YTf1LYJ7pdXnQ
+kewtQdsumy6/MDJXgqVeBg2fpWS5BPptq95nNJGVEhTmcx5Y/UUex+DJu/ND
+Iwtq6B6DJR7m/65wJBszsG5+YiMII4NBZ+HZc+wisjMD/9Bp7ccfkL0ZcCXd
+sZxRchiDhaVjAk8b1dLvY+BrmcLu3EIuYHD1xxY+K5wsZ5AfZnSRc5pcz2DW
+7cm9as1kJQMsjXfjqtep/J7BsHuyi/kismYuuisszEddyDNyEbORiWyPJpvk
+oupaSOczWZ3V33a6ggI=
+          "]]},
+        Annotation[#, "Charting`Private`Tag#1"]& ]},
+      {"WolframDynamicHighlight", <|
+       "Label" -> {"XYLabel"}, "Ball" -> {"IndicatedBall"}|>}], 
+     StyleBox[
+      DynamicBox[(Charting`HighlightActionBox["DynamicHighlight", {}, 
+        Slot["HighlightElements"], 
+        Slot["LayoutOptions"], 
+        Slot["Meta"], 
+        Charting`HighlightActionFunction["DynamicHighlight", {{{}, {}, 
+           Annotation[{
+             Hue[0.67, 0.6, 0.6], 
+             Directive[
+              PointSize[0.009166666666666668], 
+              RGBColor[0.24, 0.6, 0.8], 
+              AbsoluteThickness[3]], 
+             Line[CompressedData["
+1:eJxt0XlYzIsaB/BCTlxO4elWsuTamnNCZKmc6huHEydahOh0SkQiJaUimvam
+RTMtszTV/NqmEhnbMULGkvajLClapnJJlparcJ047jPvn3eeZ555Ps877++d
+73znePo5eY1RU1Nr//b+3+f/f83DtpGoS+frLaxUXo7pGbJZgqCNZCtwWluY
+CMkW8s9oiNU3Zr3YQd6Adr0fqngTPMib8b1Vg/pEnd0qsx0xvmfezXG6e2nu
+jIZNQUvva++n+TZIYxJnx489SPMdcFpr2mk0cIjmrlh5NmrWvdf+NP8dbfbS
+AXO3AJXhgWDXXbb36o/Q93chINeiXm4RpLLCE4KdrOrtRUdpfw885k1y6Jka
+QvteWM9evIh/IpT294J9v7NE+vIY7e+DxvDiVb84htH+fhzU0xyVlp+gfR+s
+1rbfPjQ3nPYPoLS5RlKynk37B2EWXPU45DNZ7RCE9e4DobII2veDdOYF95te
+kWR/NExfpu5qEKWy0h+27Po1vzeR2YcR3Fq8+mlctMqGAeD4LazrtIqhewF4
+ZC0+Fz5C9jgCgUtgfm1ZLN0PRM3rgKCmfXEqM4Ewn3nDsHBOPN0PwsPFFq+2
+tZGVQZjOjDn6UcCh+0fhn8x+I3ZOoPvBENrc1nKemkj3g/HIZprn8iayRwhq
+8g6vd+Ql0f1Q6Hl6GCmckul+KCqf9RcJdE7R/WP46eWdqv5WsvIY9izZPLdb
+kkL3j+NL4x79SlMu3Q/D0Pii25FCsiIM2y2Tvrf4QvY4AZd3+bv+2sOj+yex
+8PiU8rZ6MnMSWg2iof4VqXQ/HNvyOsdsYsjKcNiWX3SdPCmN5my0l4rtNoWS
+uWy8/XQnwLiXrGQjwDLY6U+XdJVNIrD7xMEPO+vI7AgYHX1Y9dU6Q+XGCGh0
+6wYO/EE2jES3PNvQ24Svsn8kFBp3q06fISsi4a1TOTjeWKCydhSMLd9deFJG
+9ojC9JbwhXErhCrLosDdXbODpyCrRcNH5imPcxCp7BCNV3MT1HRekJlorJg2
+wFePzFR5IBq9ZWc7V80XU/4YGNZUvq5qJHNj4PKYNfZVTBblj0GaJK98ZF02
+5Y/FGa+uDq+pOZQ/FmbDO3hn3pAbY3FxiJOk3yyh/HF412SzpWEfQ/nj8MvK
+AP2KN2RFHPiTdLaIQ3Mpfzze9BSvuzA5j/LHo+pD4duRIrIsHnPLP3Yu+iWf
+8nPQrh29Y3of2YED57dO3+WmFFB+DrY96njeurKQ8nMgcp1qOq2TjAR4ur48
+VxcnpfwJWHKlyqHEpIjyJ2Dzpq1/+rWSTRKx4f6shI8RxZQ/EfkaxquMfyih
+/IkYMevQ/9JENkxCVHWA1Dv0NOVPgttJde0DhqWUPwmdUtP876rI2snQTBUK
+1vieofzJmKpzdcOcaWcpfzKKbhSVlsjJaqcw/GhwsMutjPKfQofuLPvGMeco
+/yns/ZT58FgReeDbXMu88D/zZZQ/BfNF93Imh5C5Keif+KR/ci1ZmQL3oTaN
+DwbnVdbj4uBhLKjzJYOL4xNtfZJukr25aPiUWfPTlAv0PC5i/8Wa0uFJlnPx
++f7n14cvkZVc2L+92vtJ46LKmjyU/dPtSPB2sgkPHL5T1+tisgsPaisf7XX5
+L5nNQ1NvHqvi10sqF/OQxtQum5VNbuRBOrYgLPQd+SMPe6ID+xqtL1M/qfj5
+Hzyn+TyybSpsSvzCgrvJ/qm4vjZxRrXpHyoLU9G6RNatG0NWpEKoscZnXzO5
+NxUP2mp/vbLwCvWZhnP7r2lphpLN0uCb7bxqZy3ZIw3ymFtWZQZylePTEHzN
+VDjOlyxLw7N2/1K3CnJLGuyUBj1Xta5S/+loCe4T6O8iG6Vjwa0XrBMXyA7p
+MF3k3vd8bLnKIenoHd35g+NWMpOO58POZrel5Opv1m3bafaRPJCOZ2vTnl7c
+cI36z8CKNqOR5WIyMhAstRu89obsnYGwD3vHb7C6Tv1nILtd4N+WQpZnYPWG
+zz5Hu8jKb88bDPxR1/QG9c/H7peHeiuiySZ81L5c9di3mezCh5XBj/PmGVVQ
+/3w4pxVodIeSi/kY4SjLiurIjXyEiPZvDJp5k/rno89gzeRf/ciGAtQa2M1m
+3SLbChDwybo1boKC+hcgQzvxePgyslCA6y92Jx53JSsEsEvyMwyLJvcKUD78
+zD7iLFlbiNGXd00Tm8lmQhx+0qQUfSV7CLHd2sr3rNEt6l+It82tg5WOZJkQ
+fSXFMT3HyC1CuCdZ2owvIKuJcPuE4erFDWQjEQauuiS5jpAdRHCourP51Ozb
+1L8IX75WZ96zJTMiXPCfnjAugFwtgt7QG3NbMXlAhDvb6hW8u2S9TFiyuiy6
+3pKRiTW57dUrde9Q/5noe3cmKhVkbiZaHrKS3u8nyzMhK2d/+S2NrMzEqV7L
+z3XXyZpimO+3KLB5QTYRY1k3X79C6y71L4bdfEmYjTmZLcZBtny4zpNcLMbW
+fiupWxK5UYyVccIrI5fJH8V4mmVuL+gkG2ahq+A933pCJfWfhcUm7uX9y8j+
+WWDtdesp+o0szILmE/k671iyIgtxjz0nLZWRe7MwukndZ8xTsnY28sTVGW1j
+71H/2Qg4kHPn5iKyRzZKvXYsObOdHJ8NRfM4rbwIsiwb+Y32hbml5JZsXJxz
+w6T0MVktB/4+hiMVX8lGOdjHMlvdzqqi/nOgvljHbrwzOSQHGzuehlicJDM5
+EG6+pHWsmFydg3UdCT6VD8gDOd/+H7ueGaNkPQme52x9yl5YTf1LYJ7pdXnQ
+kewtQdsumy6/MDJXgqVeBg2fpWS5BPptq95nNJGVEhTmcx5Y/UUex+DJu/ND
+Iwtq6B6DJR7m/65wJBszsG5+YiMII4NBZ+HZc+wisjMD/9Bp7ccfkL0ZcCXd
+sZxRchiDhaVjAk8b1dLvY+BrmcLu3EIuYHD1xxY+K5wsZ5AfZnSRc5pcz2DW
+7cm9as1kJQMsjXfjqtep/J7BsHuyi/kismYuuisszEddyDNyEbORiWyPJpvk
+oupaSOczWZ3V33a6ggI=
+              "]]}, "Charting`Private`Tag#1"]}}, <|
+         "HighlightElements" -> <|
+           "Label" -> {"XYLabel"}, "Ball" -> {"IndicatedBall"}|>, 
+          "LayoutOptions" -> <|
+           "PanelPlotLayout" -> <||>, 
+            "PlotRange" -> {{0., 2200.}, {0., 3.301007150977961*^-6}}, 
+            "Frame" -> {{True, None}, {True, None}}, "AxesOrigin" -> {0., 0.},
+             "ImageSize" -> {
+             85 + 110 GoldenRatio, GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
+            "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13}, 
+            "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
+              Directive[
+               PointSize[0.009166666666666668], 
+               RGBColor[0.24, 0.6, 0.8], 
+               AbsoluteThickness[3]]}, 
+            "HighlightLabelingFunctions" -> <|"CoordinatesToolOptions" -> ({
+                (Identity[#]& )[
+                 Part[#, 1]], 
+                (Identity[#]& )[
+                 Part[#, 2]]}& ), 
+              "ScalingFunctions" -> {{Identity, Identity}, {
+                Identity, Identity}}|>, "Primitives" -> {}, "GCFlag" -> 
+            False|>, 
+          "Meta" -> <|
+           "DefaultHighlight" -> {"Dynamic", None}, "Index" -> {}, "Function" -> 
+            ListPlot, "GroupHighlight" -> False|>|>]]& )[<|
+        "HighlightElements" -> <|
+          "Label" -> {"XYLabel"}, "Ball" -> {"IndicatedBall"}|>, 
+         "LayoutOptions" -> <|
+          "PanelPlotLayout" -> <||>, 
+           "PlotRange" -> {{0., 2200.}, {0., 3.301007150977961*^-6}}, 
+           "Frame" -> {{True, None}, {True, None}}, "AxesOrigin" -> {0., 0.}, 
+           "ImageSize" -> {
+            85 + 110 GoldenRatio, GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
+           "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13}, 
+           "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
+             Directive[
+              PointSize[0.009166666666666668], 
+              RGBColor[0.24, 0.6, 0.8], 
+              AbsoluteThickness[3]]}, 
+           "HighlightLabelingFunctions" -> <|"CoordinatesToolOptions" -> ({
+               (Identity[#]& )[
+                Part[#, 1]], 
+               (Identity[#]& )[
+                Part[#, 2]]}& ), 
+             "ScalingFunctions" -> {{Identity, Identity}, {
+               Identity, Identity}}|>, "Primitives" -> {}, "GCFlag" -> 
+           False|>, 
+         "Meta" -> <|
+          "DefaultHighlight" -> {"Dynamic", None}, "Index" -> {}, "Function" -> 
+           ListPlot, "GroupHighlight" -> False|>|>],
+       ImageSizeCache->{{4.503599627370496*^15, -4.503599627370496*^15}, {
+        4.503599627370496*^15, -4.503599627370496*^15}}],
+      Selectable->False]},
+    Annotation[{{{}, {}, 
+       Annotation[{
+         Hue[0.67, 0.6, 0.6], 
+         Directive[
+          PointSize[0.009166666666666668], 
+          RGBColor[0.24, 0.6, 0.8], 
+          AbsoluteThickness[3]], 
+         Line[CompressedData["
+1:eJxt0XlYzIsaB/BCTlxO4elWsuTamnNCZKmc6huHEydahOh0SkQiJaUimvam
+RTMtszTV/NqmEhnbMULGkvajLClapnJJlparcJ047jPvn3eeZ555Ps877++d
+73znePo5eY1RU1Nr//b+3+f/f83DtpGoS+frLaxUXo7pGbJZgqCNZCtwWluY
+CMkW8s9oiNU3Zr3YQd6Adr0fqngTPMib8b1Vg/pEnd0qsx0xvmfezXG6e2nu
+jIZNQUvva++n+TZIYxJnx489SPMdcFpr2mk0cIjmrlh5NmrWvdf+NP8dbfbS
+AXO3AJXhgWDXXbb36o/Q93chINeiXm4RpLLCE4KdrOrtRUdpfw885k1y6Jka
+QvteWM9evIh/IpT294J9v7NE+vIY7e+DxvDiVb84htH+fhzU0xyVlp+gfR+s
+1rbfPjQ3nPYPoLS5RlKynk37B2EWXPU45DNZ7RCE9e4DobII2veDdOYF95te
+kWR/NExfpu5qEKWy0h+27Po1vzeR2YcR3Fq8+mlctMqGAeD4LazrtIqhewF4
+ZC0+Fz5C9jgCgUtgfm1ZLN0PRM3rgKCmfXEqM4Ewn3nDsHBOPN0PwsPFFq+2
+tZGVQZjOjDn6UcCh+0fhn8x+I3ZOoPvBENrc1nKemkj3g/HIZprn8iayRwhq
+8g6vd+Ql0f1Q6Hl6GCmckul+KCqf9RcJdE7R/WP46eWdqv5WsvIY9izZPLdb
+kkL3j+NL4x79SlMu3Q/D0Pii25FCsiIM2y2Tvrf4QvY4AZd3+bv+2sOj+yex
+8PiU8rZ6MnMSWg2iof4VqXQ/HNvyOsdsYsjKcNiWX3SdPCmN5my0l4rtNoWS
+uWy8/XQnwLiXrGQjwDLY6U+XdJVNIrD7xMEPO+vI7AgYHX1Y9dU6Q+XGCGh0
+6wYO/EE2jES3PNvQ24Svsn8kFBp3q06fISsi4a1TOTjeWKCydhSMLd9deFJG
+9ojC9JbwhXErhCrLosDdXbODpyCrRcNH5imPcxCp7BCNV3MT1HRekJlorJg2
+wFePzFR5IBq9ZWc7V80XU/4YGNZUvq5qJHNj4PKYNfZVTBblj0GaJK98ZF02
+5Y/FGa+uDq+pOZQ/FmbDO3hn3pAbY3FxiJOk3yyh/HF412SzpWEfQ/nj8MvK
+AP2KN2RFHPiTdLaIQ3Mpfzze9BSvuzA5j/LHo+pD4duRIrIsHnPLP3Yu+iWf
+8nPQrh29Y3of2YED57dO3+WmFFB+DrY96njeurKQ8nMgcp1qOq2TjAR4ur48
+VxcnpfwJWHKlyqHEpIjyJ2Dzpq1/+rWSTRKx4f6shI8RxZQ/EfkaxquMfyih
+/IkYMevQ/9JENkxCVHWA1Dv0NOVPgttJde0DhqWUPwmdUtP876rI2snQTBUK
+1vieofzJmKpzdcOcaWcpfzKKbhSVlsjJaqcw/GhwsMutjPKfQofuLPvGMeco
+/yns/ZT58FgReeDbXMu88D/zZZQ/BfNF93Imh5C5Keif+KR/ci1ZmQL3oTaN
+DwbnVdbj4uBhLKjzJYOL4xNtfZJukr25aPiUWfPTlAv0PC5i/8Wa0uFJlnPx
++f7n14cvkZVc2L+92vtJ46LKmjyU/dPtSPB2sgkPHL5T1+tisgsPaisf7XX5
+L5nNQ1NvHqvi10sqF/OQxtQum5VNbuRBOrYgLPQd+SMPe6ID+xqtL1M/qfj5
+Hzyn+TyybSpsSvzCgrvJ/qm4vjZxRrXpHyoLU9G6RNatG0NWpEKoscZnXzO5
+NxUP2mp/vbLwCvWZhnP7r2lphpLN0uCb7bxqZy3ZIw3ymFtWZQZylePTEHzN
+VDjOlyxLw7N2/1K3CnJLGuyUBj1Xta5S/+loCe4T6O8iG6Vjwa0XrBMXyA7p
+MF3k3vd8bLnKIenoHd35g+NWMpOO58POZrel5Opv1m3bafaRPJCOZ2vTnl7c
+cI36z8CKNqOR5WIyMhAstRu89obsnYGwD3vHb7C6Tv1nILtd4N+WQpZnYPWG
+zz5Hu8jKb88bDPxR1/QG9c/H7peHeiuiySZ81L5c9di3mezCh5XBj/PmGVVQ
+/3w4pxVodIeSi/kY4SjLiurIjXyEiPZvDJp5k/rno89gzeRf/ciGAtQa2M1m
+3SLbChDwybo1boKC+hcgQzvxePgyslCA6y92Jx53JSsEsEvyMwyLJvcKUD78
+zD7iLFlbiNGXd00Tm8lmQhx+0qQUfSV7CLHd2sr3rNEt6l+It82tg5WOZJkQ
+fSXFMT3HyC1CuCdZ2owvIKuJcPuE4erFDWQjEQauuiS5jpAdRHCourP51Ozb
+1L8IX75WZ96zJTMiXPCfnjAugFwtgt7QG3NbMXlAhDvb6hW8u2S9TFiyuiy6
+3pKRiTW57dUrde9Q/5noe3cmKhVkbiZaHrKS3u8nyzMhK2d/+S2NrMzEqV7L
+z3XXyZpimO+3KLB5QTYRY1k3X79C6y71L4bdfEmYjTmZLcZBtny4zpNcLMbW
+fiupWxK5UYyVccIrI5fJH8V4mmVuL+gkG2ahq+A933pCJfWfhcUm7uX9y8j+
+WWDtdesp+o0szILmE/k671iyIgtxjz0nLZWRe7MwukndZ8xTsnY28sTVGW1j
+71H/2Qg4kHPn5iKyRzZKvXYsObOdHJ8NRfM4rbwIsiwb+Y32hbml5JZsXJxz
+w6T0MVktB/4+hiMVX8lGOdjHMlvdzqqi/nOgvljHbrwzOSQHGzuehlicJDM5
+EG6+pHWsmFydg3UdCT6VD8gDOd/+H7ueGaNkPQme52x9yl5YTf1LYJ7pdXnQ
+kewtQdsumy6/MDJXgqVeBg2fpWS5BPptq95nNJGVEhTmcx5Y/UUex+DJu/ND
+Iwtq6B6DJR7m/65wJBszsG5+YiMII4NBZ+HZc+wisjMD/9Bp7ccfkL0ZcCXd
+sZxRchiDhaVjAk8b1dLvY+BrmcLu3EIuYHD1xxY+K5wsZ5AfZnSRc5pcz2DW
+7cm9as1kJQMsjXfjqtep/J7BsHuyi/kismYuuisszEddyDNyEbORiWyPJpvk
+oupaSOczWZ3V33a6ggI=
+          "]]}, "Charting`Private`Tag#1"]}}, <|
+     "HighlightElements" -> <|
+       "Label" -> {"XYLabel"}, "Ball" -> {"IndicatedBall"}|>, 
+      "LayoutOptions" -> <|
+       "PanelPlotLayout" -> <||>, 
+        "PlotRange" -> {{0., 2200.}, {0., 3.301007150977961*^-6}}, 
+        "Frame" -> {{True, None}, {True, None}}, "AxesOrigin" -> {0., 0.}, 
+        "ImageSize" -> {
+         85 + 110 GoldenRatio, GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
+        "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13}, 
+        "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
+          Directive[
+           PointSize[0.009166666666666668], 
+           RGBColor[0.24, 0.6, 0.8], 
+           AbsoluteThickness[3]]}, 
+        "HighlightLabelingFunctions" -> <|"CoordinatesToolOptions" -> ({
+            (Identity[#]& )[
+             Part[#, 1]], 
+            (Identity[#]& )[
+             Part[#, 2]]}& ), 
+          "ScalingFunctions" -> {{Identity, Identity}, {
+            Identity, Identity}}|>, "Primitives" -> {}, "GCFlag" -> False|>, 
+      "Meta" -> <|
+       "DefaultHighlight" -> {"Dynamic", None}, "Index" -> {}, "Function" -> 
+        ListPlot, "GroupHighlight" -> False|>|>, 
+     "DynamicHighlight"]], {{}, {}}},
+  AspectRatio->NCache[GoldenRatio^(-1), 0.6180339887498948],
+  Axes->{False, False},
+  AxesLabel->{None, None},
+  AxesOrigin->{0., 0.},
+  DefaultBaseStyle->{"PlotGraphics", "Graphics"},
+  DisplayFunction->Identity,
+  FormatType:>(Style[
+    TraditionalForm[
+     SlotSequence[1]], SingleLetterItalics -> True]& ),
+  Frame->{{True, None}, {True, None}},
+  FrameLabel->{{
+     FormBox[
+      TagBox[
+      "\"\[Mu]mol quanta \\!\\(\\*SuperscriptBox[\\(m\\), \\(-\\(2\\)\\(\\\\ \
+\\)\\)]\\)\\!\\(\\*SuperscriptBox[\\(s\\), \\(-1\\)]\\)\"", HoldForm], 
+      TraditionalForm], None}, {
+     FormBox[
+      TagBox[
+      "\"\[Mu]mol quanta \\!\\(\\*SuperscriptBox[\\(m\\), \\(-\\(2\\)\\(\\\\ \
+\\)\\)]\\)\\!\\(\\*SuperscriptBox[\\(s\\), \\(-1\\)]\\)\"", HoldForm], 
+      TraditionalForm], None}},
+  FrameTicks->{{Charting`FindScaledTicks[
+      (Charting`ScaledTicks[{Identity, Identity}][
+       SlotSequence[1], {4, 2}]& )[
+       SlotSequence[1]], {Identity, Identity}]& , Automatic}, {
+    Charting`FindScaledTicks[
+      (Charting`ScaledTicks[{Identity, Identity}][
+       SlotSequence[1], {4, 2}]& )[
+       SlotSequence[1]], {Identity, Identity}]& , Automatic}},
+  GridLines->{None, None},
+  GridLinesStyle->Directive[
+    GrayLevel[0.5, 0.4]],
+  ImagePadding->{{80, 5}, {45, 10}},
+  ImageSize->NCache[{85 + 110 GoldenRatio, 165}, {262.98373876248843`, 165}],
+  LabelStyle->13,
+  Method->{
+   "AxisPadding" -> Scaled[0.02], "DefaultBoundaryStyle" -> Automatic, 
+    "DefaultGraphicsInteraction" -> {
+     "Version" -> 1.2, "TrackMousePosition" -> {True, False}, 
+      "Effects" -> {
+       "Highlight" -> {"ratio" -> 2}, "HighlightPoint" -> {"ratio" -> 2}, 
+        "Droplines" -> {
+         "freeformCursorMode" -> True, 
+          "placement" -> {"x" -> "All", "y" -> "None"}}}}, "DefaultMeshStyle" -> 
+    AbsolutePointSize[6], "DefaultPlotStyle" -> {
+      Directive[
+       RGBColor[0.24, 0.6, 0.8], 
+       AbsoluteThickness[2]], 
+      Directive[
+       RGBColor[0.95, 0.627, 0.1425], 
+       AbsoluteThickness[2]], 
+      Directive[
+       RGBColor[0.455, 0.7, 0.21], 
+       AbsoluteThickness[2]], 
+      Directive[
+       RGBColor[0.922526, 0.385626, 0.209179], 
+       AbsoluteThickness[2]], 
+      Directive[
+       RGBColor[0.578, 0.51, 0.85], 
+       AbsoluteThickness[2]], 
+      Directive[
+       RGBColor[0.772079, 0.431554, 0.102387], 
+       AbsoluteThickness[2]], 
+      Directive[
+       RGBColor[0.4, 0.64, 1.], 
+       AbsoluteThickness[2]], 
+      Directive[
+       RGBColor[1., 0.75, 0.], 
+       AbsoluteThickness[2]], 
+      Directive[
+       RGBColor[0.8, 0.4, 0.76], 
+       AbsoluteThickness[2]], 
+      Directive[
+       RGBColor[0.637, 0.65, 0.], 
+       AbsoluteThickness[2]], 
+      Directive[
+       RGBColor[0.915, 0.3325, 0.2125], 
+       AbsoluteThickness[2]], 
+      Directive[
+       RGBColor[0.40082222609352647`, 0.5220066643438841, 0.85], 
+       AbsoluteThickness[2]], 
+      Directive[
+       RGBColor[0.9728288904374106, 0.621644452187053, 0.07336199581899142], 
+       AbsoluteThickness[2]], 
+      Directive[
+       RGBColor[0.736782672705901, 0.358, 0.5030266573755369], 
+       AbsoluteThickness[2]], 
+      Directive[
+       RGBColor[0.28026441037696703`, 0.715, 0.4292089322474965], 
+       AbsoluteThickness[2]]}, "DomainPadding" -> Scaled[0.02], 
+    "PointSizeFunction" -> "SmallPointSize", "RangePadding" -> Scaled[0.05], 
+    "OptimizePlotMarkers" -> True, "IncludeHighlighting" -> Automatic, 
+    "HighlightStyle" -> Automatic, "OptimizePlotMarkers" -> True, 
+    "IncludeHighlighting" -> "CurrentSet", "HighlightStyle" -> Automatic, 
+    "OptimizePlotMarkers" -> True, 
+    "CoordinatesToolOptions" -> {"DisplayFunction" -> ({
+        (Identity[#]& )[
+         Part[#, 1]], 
+        (Identity[#]& )[
+         Part[#, 2]]}& ), "CopiedValueFunction" -> ({
+        (Identity[#]& )[
+         Part[#, 1]], 
+        (Identity[#]& )[
+         Part[#, 2]]}& )}},
+  PlotInteractivity:>True,
+  PlotLabel->FormBox[
+   "\"\\!\\(\\*SuperscriptBox[\\(c\\), \\(*\\)]\\)\"", TraditionalForm],
+  PlotRange->{{0., 2200.}, {0., 3.301007150977961*^-6}},
+  PlotRangeClipping->True,
+  PlotRangePadding->{{
+     Scaled[0.02], 
+     Scaled[0.02]}, {
+     Scaled[0.02], 
+     Scaled[0.05]}},
+  Ticks->{Automatic, Automatic}]], "Output",
+ CellChangeTimes->{{3.9681544754689913`*^9, 3.968154480890942*^9}, 
+   3.968157823609808*^9, 3.968157951504221*^9},
+ CellLabel->"Out[87]=",ExpressionUUID->"0282976e-2acc-4c0e-a2ce-63b874fa4f90"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -1199,7 +1604,7 @@ Cell[BoxData[
    3.967312586348565*^9}, {3.968083798989647*^9, 3.96808380405086*^9}, {
    3.968085791264749*^9, 3.968085792005574*^9}, 3.9681047525182753`*^9, {
    3.9681074474873037`*^9, 3.968107547494001*^9}},
- CellLabel->"In[7]:=",ExpressionUUID->"198b633e-e450-4f23-ab09-258d064cd5d3"],
+ CellLabel->"In[88]:=",ExpressionUUID->"198b633e-e450-4f23-ab09-258d064cd5d3"],
 
 Cell[BoxData[
  StyleBox[
@@ -1319,8 +1724,8 @@ tuElHNnvDDKF7SpyxBl4+5yv/MX/AwDYPAE=
                    "Frame" -> {{True, None}, {True, None}}, 
                    "AxesOrigin" -> {0., 0.}, 
                    "ImageSize" -> {
-                    55 + 110 GoldenRatio, 
-                    GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                    85 + 110 GoldenRatio, 
+                    GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                    "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13},
                     "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                     Directive[
@@ -1348,8 +1753,8 @@ tuElHNnvDDKF7SpyxBl4+5yv/MX/AwDYPAE=
                   "Frame" -> {{True, None}, {True, None}}, 
                   "AxesOrigin" -> {0., 0.}, 
                   "ImageSize" -> {
-                   55 + 110 GoldenRatio, 
-                    GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                   85 + 110 GoldenRatio, 
+                    GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                   "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13}, 
                   "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                     Directive[
@@ -1428,8 +1833,8 @@ tuElHNnvDDKF7SpyxBl4+5yv/MX/AwDYPAE=
                "Frame" -> {{True, None}, {True, None}}, 
                "AxesOrigin" -> {0., 0.}, 
                "ImageSize" -> {
-                55 + 110 GoldenRatio, 
-                 GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                85 + 110 GoldenRatio, 
+                 GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13}, 
                "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                  Directive[
@@ -1454,8 +1859,12 @@ tuElHNnvDDKF7SpyxBl4+5yv/MX/AwDYPAE=
          Identity, FormatType :> (Style[
            TraditionalForm[
             SlotSequence[1]], SingleLetterItalics -> True]& ), 
-         Frame -> {{True, None}, {True, None}}, 
-         FrameLabel -> {{None, None}, {
+         Frame -> {{True, None}, {True, None}}, FrameLabel -> {{
+            FormBox[
+             TagBox[
+             "\"\[Mu]mol quanta \\!\\(\\*SuperscriptBox[\\(m\\), \
+\\(-\\(2\\)\\(\\\\ \\)\\)]\\)\\!\\(\\*SuperscriptBox[\\(s\\), \\(-1\\)]\\)\"",
+               HoldForm], TraditionalForm], None}, {
             FormBox[
              TagBox[
              "\"\[Mu]mol quanta \\!\\(\\*SuperscriptBox[\\(m\\), \
@@ -1470,9 +1879,9 @@ tuElHNnvDDKF7SpyxBl4+5yv/MX/AwDYPAE=
               SlotSequence[1], {4, 2}]& )[
               SlotSequence[1]], {Identity, Identity}]& , Automatic}}, 
          GridLines -> {None, None}, GridLinesStyle -> Directive[
-           GrayLevel[0.5, 0.4]], ImagePadding -> {{50, 5}, {45, 10}}, 
+           GrayLevel[0.5, 0.4]], ImagePadding -> {{80, 5}, {45, 10}}, 
          ImageSize -> 
-         NCache[{55 + 110 GoldenRatio, 165}, {232.98373876248843`, 165}], 
+         NCache[{85 + 110 GoldenRatio, 165}, {262.98373876248843`, 165}], 
          LabelStyle -> 13, 
          Method -> {
           "AxisPadding" -> Scaled[0.02], "DefaultBoundaryStyle" -> Automatic, 
@@ -1691,8 +2100,8 @@ oupaSOczWZ3V33a6ggI=
                    "Frame" -> {{True, None}, {True, None}}, 
                    "AxesOrigin" -> {0., 0.}, 
                    "ImageSize" -> {
-                    55 + 110 GoldenRatio, 
-                    GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                    85 + 110 GoldenRatio, 
+                    GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                    "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13},
                     "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                     Directive[
@@ -1720,8 +2129,8 @@ oupaSOczWZ3V33a6ggI=
                   "Frame" -> {{True, None}, {True, None}}, 
                   "AxesOrigin" -> {0., 0.}, 
                   "ImageSize" -> {
-                   55 + 110 GoldenRatio, 
-                    GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                   85 + 110 GoldenRatio, 
+                    GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                   "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13}, 
                   "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                     Directive[
@@ -1812,8 +2221,8 @@ oupaSOczWZ3V33a6ggI=
                "Frame" -> {{True, None}, {True, None}}, 
                "AxesOrigin" -> {0., 0.}, 
                "ImageSize" -> {
-                55 + 110 GoldenRatio, 
-                 GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                85 + 110 GoldenRatio, 
+                 GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13}, 
                "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                  Directive[
@@ -1838,8 +2247,12 @@ oupaSOczWZ3V33a6ggI=
          Identity, FormatType :> (Style[
            TraditionalForm[
             SlotSequence[1]], SingleLetterItalics -> True]& ), 
-         Frame -> {{True, None}, {True, None}}, 
-         FrameLabel -> {{None, None}, {
+         Frame -> {{True, None}, {True, None}}, FrameLabel -> {{
+            FormBox[
+             TagBox[
+             "\"\[Mu]mol quanta \\!\\(\\*SuperscriptBox[\\(m\\), \
+\\(-\\(2\\)\\(\\\\ \\)\\)]\\)\\!\\(\\*SuperscriptBox[\\(s\\), \\(-1\\)]\\)\"",
+               HoldForm], TraditionalForm], None}, {
             FormBox[
              TagBox[
              "\"\[Mu]mol quanta \\!\\(\\*SuperscriptBox[\\(m\\), \
@@ -1854,9 +2267,9 @@ oupaSOczWZ3V33a6ggI=
               SlotSequence[1], {4, 2}]& )[
               SlotSequence[1]], {Identity, Identity}]& , Automatic}}, 
          GridLines -> {None, None}, GridLinesStyle -> Directive[
-           GrayLevel[0.5, 0.4]], ImagePadding -> {{50, 5}, {45, 10}}, 
+           GrayLevel[0.5, 0.4]], ImagePadding -> {{80, 5}, {45, 10}}, 
          ImageSize -> 
-         NCache[{55 + 110 GoldenRatio, 165}, {232.98373876248843`, 165}], 
+         NCache[{85 + 110 GoldenRatio, 165}, {262.98373876248843`, 165}], 
          LabelStyle -> 13, 
          Method -> {
           "AxisPadding" -> Scaled[0.02], "DefaultBoundaryStyle" -> Automatic, 
@@ -1930,7 +2343,8 @@ oupaSOczWZ3V33a6ggI=
                 Part[#, 1]], 
                (Identity[#]& )[
                 Part[#, 2]]}& )}}, PlotInteractivity :> True, PlotLabel -> 
-         FormBox["\"\\!\\(\\*SuperscriptBox[\\(c\\), \\(*\\)]\\)\"", 
+         FormBox[
+          "\"\\!\\(\\*SuperscriptBox[\\(c\\), \\(*\\)]\\)\"", 
            TraditionalForm], 
          PlotRange -> {{0., 2200.}, {0., 3.301007150977961*^-6}}, 
          PlotRangeClipping -> True, PlotRangePadding -> {{
@@ -2080,8 +2494,8 @@ Ofo7lbNz15PVcxHw26rBy+8rGM/PhXOHrkv5eTI7F+H8vXbXvSrs/wHL62Mm
                    "Frame" -> {{True, None}, {True, None}}, 
                    "AxesOrigin" -> {0., 0.}, 
                    "ImageSize" -> {
-                    55 + 110 GoldenRatio, 
-                    GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                    85 + 110 GoldenRatio, 
+                    GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                    "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13},
                     "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                     Directive[
@@ -2109,8 +2523,8 @@ Ofo7lbNz15PVcxHw26rBy+8rGM/PhXOHrkv5eTI7F+H8vXbXvSrs/wHL62Mm
                   "Frame" -> {{True, None}, {True, None}}, 
                   "AxesOrigin" -> {0., 0.}, 
                   "ImageSize" -> {
-                   55 + 110 GoldenRatio, 
-                    GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                   85 + 110 GoldenRatio, 
+                    GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                   "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13}, 
                   "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                     Directive[
@@ -2202,8 +2616,8 @@ Ofo7lbNz15PVcxHw26rBy+8rGM/PhXOHrkv5eTI7F+H8vXbXvSrs/wHL62Mm
                "Frame" -> {{True, None}, {True, None}}, 
                "AxesOrigin" -> {0., 0.}, 
                "ImageSize" -> {
-                55 + 110 GoldenRatio, 
-                 GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                85 + 110 GoldenRatio, 
+                 GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13}, 
                "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                  Directive[
@@ -2228,8 +2642,12 @@ Ofo7lbNz15PVcxHw26rBy+8rGM/PhXOHrkv5eTI7F+H8vXbXvSrs/wHL62Mm
          Identity, FormatType :> (Style[
            TraditionalForm[
             SlotSequence[1]], SingleLetterItalics -> True]& ), 
-         Frame -> {{True, None}, {True, None}}, 
-         FrameLabel -> {{None, None}, {
+         Frame -> {{True, None}, {True, None}}, FrameLabel -> {{
+            FormBox[
+             TagBox[
+             "\"\[Mu]mol quanta \\!\\(\\*SuperscriptBox[\\(m\\), \
+\\(-\\(2\\)\\(\\\\ \\)\\)]\\)\\!\\(\\*SuperscriptBox[\\(s\\), \\(-1\\)]\\)\"",
+               HoldForm], TraditionalForm], None}, {
             FormBox[
              TagBox[
              "\"\[Mu]mol quanta \\!\\(\\*SuperscriptBox[\\(m\\), \
@@ -2244,9 +2662,9 @@ Ofo7lbNz15PVcxHw26rBy+8rGM/PhXOHrkv5eTI7F+H8vXbXvSrs/wHL62Mm
               SlotSequence[1], {4, 2}]& )[
               SlotSequence[1]], {Identity, Identity}]& , Automatic}}, 
          GridLines -> {None, None}, GridLinesStyle -> Directive[
-           GrayLevel[0.5, 0.4]], ImagePadding -> {{50, 5}, {45, 10}}, 
+           GrayLevel[0.5, 0.4]], ImagePadding -> {{80, 5}, {45, 10}}, 
          ImageSize -> 
-         NCache[{55 + 110 GoldenRatio, 165}, {232.98373876248843`, 165}], 
+         NCache[{85 + 110 GoldenRatio, 165}, {262.98373876248843`, 165}], 
          LabelStyle -> 13, 
          Method -> {
           "AxisPadding" -> Scaled[0.02], "DefaultBoundaryStyle" -> Automatic, 
@@ -2465,8 +2883,8 @@ ZOMC/Br2qqbtOb1/2RTgJTdgXY/sw6r/Asmg/pk=
                    "Frame" -> {{True, None}, {True, None}}, 
                    "AxesOrigin" -> {0., 0.}, 
                    "ImageSize" -> {
-                    55 + 110 GoldenRatio, 
-                    GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                    85 + 110 GoldenRatio, 
+                    GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                    "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13},
                     "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                     Directive[
@@ -2494,8 +2912,8 @@ ZOMC/Br2qqbtOb1/2RTgJTdgXY/sw6r/Asmg/pk=
                   "Frame" -> {{True, None}, {True, None}}, 
                   "AxesOrigin" -> {0., 0.}, 
                   "ImageSize" -> {
-                   55 + 110 GoldenRatio, 
-                    GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                   85 + 110 GoldenRatio, 
+                    GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                   "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13}, 
                   "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                     Directive[
@@ -2586,8 +3004,8 @@ ZOMC/Br2qqbtOb1/2RTgJTdgXY/sw6r/Asmg/pk=
                "Frame" -> {{True, None}, {True, None}}, 
                "AxesOrigin" -> {0., 0.}, 
                "ImageSize" -> {
-                55 + 110 GoldenRatio, 
-                 GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                85 + 110 GoldenRatio, 
+                 GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13}, 
                "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                  Directive[
@@ -2612,8 +3030,12 @@ ZOMC/Br2qqbtOb1/2RTgJTdgXY/sw6r/Asmg/pk=
          Identity, FormatType :> (Style[
            TraditionalForm[
             SlotSequence[1]], SingleLetterItalics -> True]& ), 
-         Frame -> {{True, None}, {True, None}}, 
-         FrameLabel -> {{None, None}, {
+         Frame -> {{True, None}, {True, None}}, FrameLabel -> {{
+            FormBox[
+             TagBox[
+             "\"\[Mu]mol quanta \\!\\(\\*SuperscriptBox[\\(m\\), \
+\\(-\\(2\\)\\(\\\\ \\)\\)]\\)\\!\\(\\*SuperscriptBox[\\(s\\), \\(-1\\)]\\)\"",
+               HoldForm], TraditionalForm], None}, {
             FormBox[
              TagBox[
              "\"\[Mu]mol quanta \\!\\(\\*SuperscriptBox[\\(m\\), \
@@ -2628,9 +3050,9 @@ ZOMC/Br2qqbtOb1/2RTgJTdgXY/sw6r/Asmg/pk=
               SlotSequence[1], {4, 2}]& )[
               SlotSequence[1]], {Identity, Identity}]& , Automatic}}, 
          GridLines -> {None, None}, GridLinesStyle -> Directive[
-           GrayLevel[0.5, 0.4]], ImagePadding -> {{50, 5}, {45, 10}}, 
+           GrayLevel[0.5, 0.4]], ImagePadding -> {{80, 5}, {45, 10}}, 
          ImageSize -> 
-         NCache[{55 + 110 GoldenRatio, 165}, {232.98373876248843`, 165}], 
+         NCache[{85 + 110 GoldenRatio, 165}, {262.98373876248843`, 165}], 
          LabelStyle -> 13, 
          Method -> {
           "AxisPadding" -> Scaled[0.02], "DefaultBoundaryStyle" -> Automatic, 
@@ -2850,8 +3272,8 @@ bpFW3U888o95iDWxby9fRDbPg/70wT7bOTFW/wJAV3Pp
                    "Frame" -> {{True, None}, {True, None}}, 
                    "AxesOrigin" -> {0., 0.}, 
                    "ImageSize" -> {
-                    55 + 110 GoldenRatio, 
-                    GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                    85 + 110 GoldenRatio, 
+                    GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                    "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13},
                     "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                     Directive[
@@ -2879,8 +3301,8 @@ bpFW3U888o95iDWxby9fRDbPg/70wT7bOTFW/wJAV3Pp
                   "Frame" -> {{True, None}, {True, None}}, 
                   "AxesOrigin" -> {0., 0.}, 
                   "ImageSize" -> {
-                   55 + 110 GoldenRatio, 
-                    GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                   85 + 110 GoldenRatio, 
+                    GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                   "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13}, 
                   "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                     Directive[
@@ -2970,8 +3392,8 @@ bpFW3U888o95iDWxby9fRDbPg/70wT7bOTFW/wJAV3Pp
                "Frame" -> {{True, None}, {True, None}}, 
                "AxesOrigin" -> {0., 0.}, 
                "ImageSize" -> {
-                55 + 110 GoldenRatio, 
-                 GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                85 + 110 GoldenRatio, 
+                 GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13}, 
                "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                  Directive[
@@ -2996,8 +3418,12 @@ bpFW3U888o95iDWxby9fRDbPg/70wT7bOTFW/wJAV3Pp
          Identity, FormatType :> (Style[
            TraditionalForm[
             SlotSequence[1]], SingleLetterItalics -> True]& ), 
-         Frame -> {{True, None}, {True, None}}, 
-         FrameLabel -> {{None, None}, {
+         Frame -> {{True, None}, {True, None}}, FrameLabel -> {{
+            FormBox[
+             TagBox[
+             "\"\[Mu]mol quanta \\!\\(\\*SuperscriptBox[\\(m\\), \
+\\(-\\(2\\)\\(\\\\ \\)\\)]\\)\\!\\(\\*SuperscriptBox[\\(s\\), \\(-1\\)]\\)\"",
+               HoldForm], TraditionalForm], None}, {
             FormBox[
              TagBox[
              "\"\[Mu]mol quanta \\!\\(\\*SuperscriptBox[\\(m\\), \
@@ -3012,9 +3438,9 @@ bpFW3U888o95iDWxby9fRDbPg/70wT7bOTFW/wJAV3Pp
               SlotSequence[1], {4, 2}]& )[
               SlotSequence[1]], {Identity, Identity}]& , Automatic}}, 
          GridLines -> {None, None}, GridLinesStyle -> Directive[
-           GrayLevel[0.5, 0.4]], ImagePadding -> {{50, 5}, {45, 10}}, 
+           GrayLevel[0.5, 0.4]], ImagePadding -> {{80, 5}, {45, 10}}, 
          ImageSize -> 
-         NCache[{55 + 110 GoldenRatio, 165}, {232.98373876248843`, 165}], 
+         NCache[{85 + 110 GoldenRatio, 165}, {262.98373876248843`, 165}], 
          LabelStyle -> 13, 
          Method -> {
           "AxisPadding" -> Scaled[0.02], "DefaultBoundaryStyle" -> Automatic, 
@@ -3233,8 +3659,8 @@ dg4KJus4RWuRuTmQXrkUl/G5Df4LZPYyjw==
                    "Frame" -> {{True, None}, {True, None}}, 
                    "AxesOrigin" -> {0., 0.}, 
                    "ImageSize" -> {
-                    55 + 110 GoldenRatio, 
-                    GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                    85 + 110 GoldenRatio, 
+                    GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                    "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13},
                     "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                     Directive[
@@ -3262,8 +3688,8 @@ dg4KJus4RWuRuTmQXrkUl/G5Df4LZPYyjw==
                   "Frame" -> {{True, None}, {True, None}}, 
                   "AxesOrigin" -> {0., 0.}, 
                   "ImageSize" -> {
-                   55 + 110 GoldenRatio, 
-                    GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                   85 + 110 GoldenRatio, 
+                    GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                   "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13}, 
                   "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                     Directive[
@@ -3354,8 +3780,8 @@ dg4KJus4RWuRuTmQXrkUl/G5Df4LZPYyjw==
                "Frame" -> {{True, None}, {True, None}}, 
                "AxesOrigin" -> {0., 0.}, 
                "ImageSize" -> {
-                55 + 110 GoldenRatio, 
-                 GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                85 + 110 GoldenRatio, 
+                 GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13}, 
                "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                  Directive[
@@ -3380,8 +3806,12 @@ dg4KJus4RWuRuTmQXrkUl/G5Df4LZPYyjw==
          Identity, FormatType :> (Style[
            TraditionalForm[
             SlotSequence[1]], SingleLetterItalics -> True]& ), 
-         Frame -> {{True, None}, {True, None}}, 
-         FrameLabel -> {{None, None}, {
+         Frame -> {{True, None}, {True, None}}, FrameLabel -> {{
+            FormBox[
+             TagBox[
+             "\"\[Mu]mol quanta \\!\\(\\*SuperscriptBox[\\(m\\), \
+\\(-\\(2\\)\\(\\\\ \\)\\)]\\)\\!\\(\\*SuperscriptBox[\\(s\\), \\(-1\\)]\\)\"",
+               HoldForm], TraditionalForm], None}, {
             FormBox[
              TagBox[
              "\"\[Mu]mol quanta \\!\\(\\*SuperscriptBox[\\(m\\), \
@@ -3396,9 +3826,9 @@ dg4KJus4RWuRuTmQXrkUl/G5Df4LZPYyjw==
               SlotSequence[1], {4, 2}]& )[
               SlotSequence[1]], {Identity, Identity}]& , Automatic}}, 
          GridLines -> {None, None}, GridLinesStyle -> Directive[
-           GrayLevel[0.5, 0.4]], ImagePadding -> {{50, 5}, {45, 10}}, 
+           GrayLevel[0.5, 0.4]], ImagePadding -> {{80, 5}, {45, 10}}, 
          ImageSize -> 
-         NCache[{55 + 110 GoldenRatio, 165}, {232.98373876248843`, 165}], 
+         NCache[{85 + 110 GoldenRatio, 165}, {262.98373876248843`, 165}], 
          LabelStyle -> 13, 
          Method -> {
           "AxisPadding" -> Scaled[0.02], "DefaultBoundaryStyle" -> Automatic, 
@@ -3617,8 +4047,8 @@ xLoUaB2Kr7X4H/sKYZY=
                    "Frame" -> {{True, None}, {True, None}}, 
                    "AxesOrigin" -> {0., 0.}, 
                    "ImageSize" -> {
-                    55 + 110 GoldenRatio, 
-                    GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                    85 + 110 GoldenRatio, 
+                    GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                    "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13},
                     "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                     Directive[
@@ -3646,8 +4076,8 @@ xLoUaB2Kr7X4H/sKYZY=
                   "Frame" -> {{True, None}, {True, None}}, 
                   "AxesOrigin" -> {0., 0.}, 
                   "ImageSize" -> {
-                   55 + 110 GoldenRatio, 
-                    GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                   85 + 110 GoldenRatio, 
+                    GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                   "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13}, 
                   "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                     Directive[
@@ -3738,8 +4168,8 @@ xLoUaB2Kr7X4H/sKYZY=
                "Frame" -> {{True, None}, {True, None}}, 
                "AxesOrigin" -> {0., 0.}, 
                "ImageSize" -> {
-                55 + 110 GoldenRatio, 
-                 GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                85 + 110 GoldenRatio, 
+                 GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13}, 
                "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                  Directive[
@@ -3764,8 +4194,12 @@ xLoUaB2Kr7X4H/sKYZY=
          Identity, FormatType :> (Style[
            TraditionalForm[
             SlotSequence[1]], SingleLetterItalics -> True]& ), 
-         Frame -> {{True, None}, {True, None}}, 
-         FrameLabel -> {{None, None}, {
+         Frame -> {{True, None}, {True, None}}, FrameLabel -> {{
+            FormBox[
+             TagBox[
+             "\"\[Mu]mol quanta \\!\\(\\*SuperscriptBox[\\(m\\), \
+\\(-\\(2\\)\\(\\\\ \\)\\)]\\)\\!\\(\\*SuperscriptBox[\\(s\\), \\(-1\\)]\\)\"",
+               HoldForm], TraditionalForm], None}, {
             FormBox[
              TagBox[
              "\"\[Mu]mol quanta \\!\\(\\*SuperscriptBox[\\(m\\), \
@@ -3780,9 +4214,9 @@ xLoUaB2Kr7X4H/sKYZY=
               SlotSequence[1], {4, 2}]& )[
               SlotSequence[1]], {Identity, Identity}]& , Automatic}}, 
          GridLines -> {None, None}, GridLinesStyle -> Directive[
-           GrayLevel[0.5, 0.4]], ImagePadding -> {{50, 5}, {45, 10}}, 
+           GrayLevel[0.5, 0.4]], ImagePadding -> {{80, 5}, {45, 10}}, 
          ImageSize -> 
-         NCache[{55 + 110 GoldenRatio, 165}, {232.98373876248843`, 165}], 
+         NCache[{85 + 110 GoldenRatio, 165}, {262.98373876248843`, 165}], 
          LabelStyle -> 13, 
          Method -> {
           "AxisPadding" -> Scaled[0.02], "DefaultBoundaryStyle" -> Automatic, 
@@ -4000,8 +4434,8 @@ IBlj4habRPbQ4MRc5aLTqXw/GtxqLzfumUHepMHpYixc8f19T4OXK7s9uJtD
                    "Frame" -> {{True, None}, {True, None}}, 
                    "AxesOrigin" -> {0., 0.}, 
                    "ImageSize" -> {
-                    55 + 110 GoldenRatio, 
-                    GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                    85 + 110 GoldenRatio, 
+                    GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                    "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13},
                     "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                     Directive[
@@ -4029,8 +4463,8 @@ IBlj4habRPbQ4MRc5aLTqXw/GtxqLzfumUHepMHpYixc8f19T4OXK7s9uJtD
                   "Frame" -> {{True, None}, {True, None}}, 
                   "AxesOrigin" -> {0., 0.}, 
                   "ImageSize" -> {
-                   55 + 110 GoldenRatio, 
-                    GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                   85 + 110 GoldenRatio, 
+                    GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                   "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13}, 
                   "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                     Directive[
@@ -4119,8 +4553,8 @@ IBlj4habRPbQ4MRc5aLTqXw/GtxqLzfumUHepMHpYixc8f19T4OXK7s9uJtD
                "Frame" -> {{True, None}, {True, None}}, 
                "AxesOrigin" -> {0., 0.}, 
                "ImageSize" -> {
-                55 + 110 GoldenRatio, 
-                 GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                85 + 110 GoldenRatio, 
+                 GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13}, 
                "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                  Directive[
@@ -4145,8 +4579,12 @@ IBlj4habRPbQ4MRc5aLTqXw/GtxqLzfumUHepMHpYixc8f19T4OXK7s9uJtD
          Identity, FormatType :> (Style[
            TraditionalForm[
             SlotSequence[1]], SingleLetterItalics -> True]& ), 
-         Frame -> {{True, None}, {True, None}}, 
-         FrameLabel -> {{None, None}, {
+         Frame -> {{True, None}, {True, None}}, FrameLabel -> {{
+            FormBox[
+             TagBox[
+             "\"\[Mu]mol quanta \\!\\(\\*SuperscriptBox[\\(m\\), \
+\\(-\\(2\\)\\(\\\\ \\)\\)]\\)\\!\\(\\*SuperscriptBox[\\(s\\), \\(-1\\)]\\)\"",
+               HoldForm], TraditionalForm], None}, {
             FormBox[
              TagBox[
              "\"\[Mu]mol quanta \\!\\(\\*SuperscriptBox[\\(m\\), \
@@ -4161,9 +4599,9 @@ IBlj4habRPbQ4MRc5aLTqXw/GtxqLzfumUHepMHpYixc8f19T4OXK7s9uJtD
               SlotSequence[1], {4, 2}]& )[
               SlotSequence[1]], {Identity, Identity}]& , Automatic}}, 
          GridLines -> {None, None}, GridLinesStyle -> Directive[
-           GrayLevel[0.5, 0.4]], ImagePadding -> {{50, 5}, {45, 10}}, 
+           GrayLevel[0.5, 0.4]], ImagePadding -> {{80, 5}, {45, 10}}, 
          ImageSize -> 
-         NCache[{55 + 110 GoldenRatio, 165}, {232.98373876248843`, 165}], 
+         NCache[{85 + 110 GoldenRatio, 165}, {262.98373876248843`, 165}], 
          LabelStyle -> 13, 
          Method -> {
           "AxisPadding" -> Scaled[0.02], "DefaultBoundaryStyle" -> Automatic, 
@@ -4237,8 +4675,8 @@ IBlj4habRPbQ4MRc5aLTqXw/GtxqLzfumUHepMHpYixc8f19T4OXK7s9uJtD
                 Part[#, 1]], 
                (Identity[#]& )[
                 Part[#, 2]]}& )}}, PlotInteractivity :> True, PlotLabel -> 
-         FormBox["\"\\!\\(\\*SubscriptBox[\\(n\\), \\(0\\)]\\)\"", 
-           TraditionalForm], 
+         FormBox[
+          "\"\\!\\(\\*SubscriptBox[\\(n\\), \\(0\\)]\\)\"", TraditionalForm], 
          PlotRange -> {{0., 2200.}, {0., 1.8200000000000003`}}, 
          PlotRangeClipping -> True, PlotRangePadding -> {{
             Scaled[0.02], 
@@ -4382,8 +4820,8 @@ RY5jMNa6+q7tFDKPgZ2JoX5Rf67GJQyOKDmHvP8g1zNoNB5zykFEbmbQYek0
                    "Frame" -> {{True, None}, {True, None}}, 
                    "AxesOrigin" -> {0., 0.}, 
                    "ImageSize" -> {
-                    55 + 110 GoldenRatio, 
-                    GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                    85 + 110 GoldenRatio, 
+                    GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                    "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13},
                     "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                     Directive[
@@ -4411,8 +4849,8 @@ RY5jMNa6+q7tFDKPgZ2JoX5Rf67GJQyOKDmHvP8g1zNoNB5zykFEbmbQYek0
                   "Frame" -> {{True, None}, {True, None}}, 
                   "AxesOrigin" -> {0., 0.}, 
                   "ImageSize" -> {
-                   55 + 110 GoldenRatio, 
-                    GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                   85 + 110 GoldenRatio, 
+                    GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                   "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13}, 
                   "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                     Directive[
@@ -4503,8 +4941,8 @@ RY5jMNa6+q7tFDKPgZ2JoX5Rf67GJQyOKDmHvP8g1zNoNB5zykFEbmbQYek0
                "Frame" -> {{True, None}, {True, None}}, 
                "AxesOrigin" -> {0., 0.}, 
                "ImageSize" -> {
-                55 + 110 GoldenRatio, 
-                 GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                85 + 110 GoldenRatio, 
+                 GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13}, 
                "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                  Directive[
@@ -4529,8 +4967,12 @@ RY5jMNa6+q7tFDKPgZ2JoX5Rf67GJQyOKDmHvP8g1zNoNB5zykFEbmbQYek0
          Identity, FormatType :> (Style[
            TraditionalForm[
             SlotSequence[1]], SingleLetterItalics -> True]& ), 
-         Frame -> {{True, None}, {True, None}}, 
-         FrameLabel -> {{None, None}, {
+         Frame -> {{True, None}, {True, None}}, FrameLabel -> {{
+            FormBox[
+             TagBox[
+             "\"\[Mu]mol quanta \\!\\(\\*SuperscriptBox[\\(m\\), \
+\\(-\\(2\\)\\(\\\\ \\)\\)]\\)\\!\\(\\*SuperscriptBox[\\(s\\), \\(-1\\)]\\)\"",
+               HoldForm], TraditionalForm], None}, {
             FormBox[
              TagBox[
              "\"\[Mu]mol quanta \\!\\(\\*SuperscriptBox[\\(m\\), \
@@ -4545,9 +4987,9 @@ RY5jMNa6+q7tFDKPgZ2JoX5Rf67GJQyOKDmHvP8g1zNoNB5zykFEbmbQYek0
               SlotSequence[1], {4, 2}]& )[
               SlotSequence[1]], {Identity, Identity}]& , Automatic}}, 
          GridLines -> {None, None}, GridLinesStyle -> Directive[
-           GrayLevel[0.5, 0.4]], ImagePadding -> {{50, 5}, {45, 10}}, 
+           GrayLevel[0.5, 0.4]], ImagePadding -> {{80, 5}, {45, 10}}, 
          ImageSize -> 
-         NCache[{55 + 110 GoldenRatio, 165}, {232.98373876248843`, 165}], 
+         NCache[{85 + 110 GoldenRatio, 165}, {262.98373876248843`, 165}], 
          LabelStyle -> 13, 
          Method -> {
           "AxisPadding" -> Scaled[0.02], "DefaultBoundaryStyle" -> Automatic, 
@@ -4766,8 +5208,8 @@ hrHdfjlL9pG1ClEaaNO0YQf5x0LcLjYYzdlMtijEwIupGyxXNS39G2fPjG4=
                    "Frame" -> {{True, None}, {True, None}}, 
                    "AxesOrigin" -> {0., 0.}, 
                    "ImageSize" -> {
-                    55 + 110 GoldenRatio, 
-                    GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                    85 + 110 GoldenRatio, 
+                    GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                    "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13},
                     "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                     Directive[
@@ -4795,8 +5237,8 @@ hrHdfjlL9pG1ClEaaNO0YQf5x0LcLjYYzdlMtijEwIupGyxXNS39G2fPjG4=
                   "Frame" -> {{True, None}, {True, None}}, 
                   "AxesOrigin" -> {0., 0.}, 
                   "ImageSize" -> {
-                   55 + 110 GoldenRatio, 
-                    GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                   85 + 110 GoldenRatio, 
+                    GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                   "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13}, 
                   "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                     Directive[
@@ -4887,8 +5329,8 @@ hrHdfjlL9pG1ClEaaNO0YQf5x0LcLjYYzdlMtijEwIupGyxXNS39G2fPjG4=
                "Frame" -> {{True, None}, {True, None}}, 
                "AxesOrigin" -> {0., 0.}, 
                "ImageSize" -> {
-                55 + 110 GoldenRatio, 
-                 GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                85 + 110 GoldenRatio, 
+                 GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13}, 
                "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                  Directive[
@@ -4913,8 +5355,12 @@ hrHdfjlL9pG1ClEaaNO0YQf5x0LcLjYYzdlMtijEwIupGyxXNS39G2fPjG4=
          Identity, FormatType :> (Style[
            TraditionalForm[
             SlotSequence[1]], SingleLetterItalics -> True]& ), 
-         Frame -> {{True, None}, {True, None}}, 
-         FrameLabel -> {{None, None}, {
+         Frame -> {{True, None}, {True, None}}, FrameLabel -> {{
+            FormBox[
+             TagBox[
+             "\"\[Mu]mol quanta \\!\\(\\*SuperscriptBox[\\(m\\), \
+\\(-\\(2\\)\\(\\\\ \\)\\)]\\)\\!\\(\\*SuperscriptBox[\\(s\\), \\(-1\\)]\\)\"",
+               HoldForm], TraditionalForm], None}, {
             FormBox[
              TagBox[
              "\"\[Mu]mol quanta \\!\\(\\*SuperscriptBox[\\(m\\), \
@@ -4929,9 +5375,9 @@ hrHdfjlL9pG1ClEaaNO0YQf5x0LcLjYYzdlMtijEwIupGyxXNS39G2fPjG4=
               SlotSequence[1], {4, 2}]& )[
               SlotSequence[1]], {Identity, Identity}]& , Automatic}}, 
          GridLines -> {None, None}, GridLinesStyle -> Directive[
-           GrayLevel[0.5, 0.4]], ImagePadding -> {{50, 5}, {45, 10}}, 
+           GrayLevel[0.5, 0.4]], ImagePadding -> {{80, 5}, {45, 10}}, 
          ImageSize -> 
-         NCache[{55 + 110 GoldenRatio, 165}, {232.98373876248843`, 165}], 
+         NCache[{85 + 110 GoldenRatio, 165}, {262.98373876248843`, 165}], 
          LabelStyle -> 13, 
          Method -> {
           "AxisPadding" -> Scaled[0.02], "DefaultBoundaryStyle" -> Automatic, 
@@ -5153,8 +5599,8 @@ MLD8DztmFYY=
                    "Frame" -> {{True, None}, {True, None}}, 
                    "AxesOrigin" -> {0., 0.}, 
                    "ImageSize" -> {
-                    55 + 110 GoldenRatio, 
-                    GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                    85 + 110 GoldenRatio, 
+                    GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                    "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13},
                     "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                     Directive[
@@ -5182,8 +5628,8 @@ MLD8DztmFYY=
                   "Frame" -> {{True, None}, {True, None}}, 
                   "AxesOrigin" -> {0., 0.}, 
                   "ImageSize" -> {
-                   55 + 110 GoldenRatio, 
-                    GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                   85 + 110 GoldenRatio, 
+                    GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                   "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13}, 
                   "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                     Directive[
@@ -5274,8 +5720,8 @@ MLD8DztmFYY=
                "Frame" -> {{True, None}, {True, None}}, 
                "AxesOrigin" -> {0., 0.}, 
                "ImageSize" -> {
-                55 + 110 GoldenRatio, 
-                 GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                85 + 110 GoldenRatio, 
+                 GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13}, 
                "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                  Directive[
@@ -5300,8 +5746,12 @@ MLD8DztmFYY=
          Identity, FormatType :> (Style[
            TraditionalForm[
             SlotSequence[1]], SingleLetterItalics -> True]& ), 
-         Frame -> {{True, None}, {True, None}}, 
-         FrameLabel -> {{None, None}, {
+         Frame -> {{True, None}, {True, None}}, FrameLabel -> {{
+            FormBox[
+             TagBox[
+             "\"\[Mu]mol quanta \\!\\(\\*SuperscriptBox[\\(m\\), \
+\\(-\\(2\\)\\(\\\\ \\)\\)]\\)\\!\\(\\*SuperscriptBox[\\(s\\), \\(-1\\)]\\)\"",
+               HoldForm], TraditionalForm], None}, {
             FormBox[
              TagBox[
              "\"\[Mu]mol quanta \\!\\(\\*SuperscriptBox[\\(m\\), \
@@ -5316,9 +5766,9 @@ MLD8DztmFYY=
               SlotSequence[1], {4, 2}]& )[
               SlotSequence[1]], {Identity, Identity}]& , Automatic}}, 
          GridLines -> {None, None}, GridLinesStyle -> Directive[
-           GrayLevel[0.5, 0.4]], ImagePadding -> {{50, 5}, {45, 10}}, 
+           GrayLevel[0.5, 0.4]], ImagePadding -> {{80, 5}, {45, 10}}, 
          ImageSize -> 
-         NCache[{55 + 110 GoldenRatio, 165}, {232.98373876248843`, 165}], 
+         NCache[{85 + 110 GoldenRatio, 165}, {262.98373876248843`, 165}], 
          LabelStyle -> 13, 
          Method -> {
           "AxisPadding" -> Scaled[0.02], "DefaultBoundaryStyle" -> Automatic, 
@@ -5537,8 +5987,8 @@ nBw86ptb5PN5ivk/4/9BIA==
                     "Frame" -> {{True, None}, {True, None}}, 
                    "AxesOrigin" -> {0., 0.}, 
                    "ImageSize" -> {
-                    55 + 110 GoldenRatio, 
-                    GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                    85 + 110 GoldenRatio, 
+                    GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                    "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13},
                     "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                     Directive[
@@ -5566,8 +6016,8 @@ nBw86ptb5PN5ivk/4/9BIA==
                   "Frame" -> {{True, None}, {True, None}}, 
                   "AxesOrigin" -> {0., 0.}, 
                   "ImageSize" -> {
-                   55 + 110 GoldenRatio, 
-                    GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                   85 + 110 GoldenRatio, 
+                    GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                   "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13}, 
                   "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                     Directive[
@@ -5658,8 +6108,8 @@ nBw86ptb5PN5ivk/4/9BIA==
                "Frame" -> {{True, None}, {True, None}}, 
                "AxesOrigin" -> {0., 0.}, 
                "ImageSize" -> {
-                55 + 110 GoldenRatio, 
-                 GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                85 + 110 GoldenRatio, 
+                 GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13}, 
                "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                  Directive[
@@ -5684,8 +6134,12 @@ nBw86ptb5PN5ivk/4/9BIA==
          Identity, FormatType :> (Style[
            TraditionalForm[
             SlotSequence[1]], SingleLetterItalics -> True]& ), 
-         Frame -> {{True, None}, {True, None}}, 
-         FrameLabel -> {{None, None}, {
+         Frame -> {{True, None}, {True, None}}, FrameLabel -> {{
+            FormBox[
+             TagBox[
+             "\"\[Mu]mol quanta \\!\\(\\*SuperscriptBox[\\(m\\), \
+\\(-\\(2\\)\\(\\\\ \\)\\)]\\)\\!\\(\\*SuperscriptBox[\\(s\\), \\(-1\\)]\\)\"",
+               HoldForm], TraditionalForm], None}, {
             FormBox[
              TagBox[
              "\"\[Mu]mol quanta \\!\\(\\*SuperscriptBox[\\(m\\), \
@@ -5700,9 +6154,9 @@ nBw86ptb5PN5ivk/4/9BIA==
               SlotSequence[1], {4, 2}]& )[
               SlotSequence[1]], {Identity, Identity}]& , Automatic}}, 
          GridLines -> {None, None}, GridLinesStyle -> Directive[
-           GrayLevel[0.5, 0.4]], ImagePadding -> {{50, 5}, {45, 10}}, 
+           GrayLevel[0.5, 0.4]], ImagePadding -> {{80, 5}, {45, 10}}, 
          ImageSize -> 
-         NCache[{55 + 110 GoldenRatio, 165}, {232.98373876248843`, 165}], 
+         NCache[{85 + 110 GoldenRatio, 165}, {262.98373876248843`, 165}], 
          LabelStyle -> 13, 
          Method -> {
           "AxisPadding" -> Scaled[0.02], "DefaultBoundaryStyle" -> Automatic, 
@@ -5923,8 +6377,8 @@ RMX2uPku/C+3XyGH
                     "Frame" -> {{True, None}, {True, None}}, 
                    "AxesOrigin" -> {0., 0.}, 
                    "ImageSize" -> {
-                    55 + 110 GoldenRatio, 
-                    GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                    85 + 110 GoldenRatio, 
+                    GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                    "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13},
                     "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                     Directive[
@@ -5952,8 +6406,8 @@ RMX2uPku/C+3XyGH
                   "Frame" -> {{True, None}, {True, None}}, 
                   "AxesOrigin" -> {0., 0.}, 
                   "ImageSize" -> {
-                   55 + 110 GoldenRatio, 
-                    GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                   85 + 110 GoldenRatio, 
+                    GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                   "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13}, 
                   "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                     Directive[
@@ -6045,8 +6499,8 @@ RMX2uPku/C+3XyGH
                "Frame" -> {{True, None}, {True, None}}, 
                "AxesOrigin" -> {0., 0.}, 
                "ImageSize" -> {
-                55 + 110 GoldenRatio, 
-                 GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                85 + 110 GoldenRatio, 
+                 GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13}, 
                "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                  Directive[
@@ -6071,8 +6525,12 @@ RMX2uPku/C+3XyGH
          Identity, FormatType :> (Style[
            TraditionalForm[
             SlotSequence[1]], SingleLetterItalics -> True]& ), 
-         Frame -> {{True, None}, {True, None}}, 
-         FrameLabel -> {{None, None}, {
+         Frame -> {{True, None}, {True, None}}, FrameLabel -> {{
+            FormBox[
+             TagBox[
+             "\"\[Mu]mol quanta \\!\\(\\*SuperscriptBox[\\(m\\), \
+\\(-\\(2\\)\\(\\\\ \\)\\)]\\)\\!\\(\\*SuperscriptBox[\\(s\\), \\(-1\\)]\\)\"",
+               HoldForm], TraditionalForm], None}, {
             FormBox[
              TagBox[
              "\"\[Mu]mol quanta \\!\\(\\*SuperscriptBox[\\(m\\), \
@@ -6087,9 +6545,9 @@ RMX2uPku/C+3XyGH
               SlotSequence[1], {4, 2}]& )[
               SlotSequence[1]], {Identity, Identity}]& , Automatic}}, 
          GridLines -> {None, None}, GridLinesStyle -> Directive[
-           GrayLevel[0.5, 0.4]], ImagePadding -> {{50, 5}, {45, 10}}, 
+           GrayLevel[0.5, 0.4]], ImagePadding -> {{80, 5}, {45, 10}}, 
          ImageSize -> 
-         NCache[{55 + 110 GoldenRatio, 165}, {232.98373876248843`, 165}], 
+         NCache[{85 + 110 GoldenRatio, 165}, {262.98373876248843`, 165}], 
          LabelStyle -> 13, 
          Method -> {
           "AxisPadding" -> Scaled[0.02], "DefaultBoundaryStyle" -> Automatic, 
@@ -6311,8 +6769,8 @@ QRFUJ5vfTWIZ4D97ZhY8
                    "Frame" -> {{True, None}, {True, None}}, 
                    "AxesOrigin" -> {0., 0.}, 
                    "ImageSize" -> {
-                    55 + 110 GoldenRatio, 
-                    GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                    85 + 110 GoldenRatio, 
+                    GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                    "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13},
                     "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                     Directive[
@@ -6340,8 +6798,8 @@ QRFUJ5vfTWIZ4D97ZhY8
                   "Frame" -> {{True, None}, {True, None}}, 
                   "AxesOrigin" -> {0., 0.}, 
                   "ImageSize" -> {
-                   55 + 110 GoldenRatio, 
-                    GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                   85 + 110 GoldenRatio, 
+                    GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                   "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13}, 
                   "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                     Directive[
@@ -6432,8 +6890,8 @@ QRFUJ5vfTWIZ4D97ZhY8
                "Frame" -> {{True, None}, {True, None}}, 
                "AxesOrigin" -> {0., 0.}, 
                "ImageSize" -> {
-                55 + 110 GoldenRatio, 
-                 GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                85 + 110 GoldenRatio, 
+                 GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13}, 
                "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                  Directive[
@@ -6458,8 +6916,12 @@ QRFUJ5vfTWIZ4D97ZhY8
          Identity, FormatType :> (Style[
            TraditionalForm[
             SlotSequence[1]], SingleLetterItalics -> True]& ), 
-         Frame -> {{True, None}, {True, None}}, 
-         FrameLabel -> {{None, None}, {
+         Frame -> {{True, None}, {True, None}}, FrameLabel -> {{
+            FormBox[
+             TagBox[
+             "\"\[Mu]mol quanta \\!\\(\\*SuperscriptBox[\\(m\\), \
+\\(-\\(2\\)\\(\\\\ \\)\\)]\\)\\!\\(\\*SuperscriptBox[\\(s\\), \\(-1\\)]\\)\"",
+               HoldForm], TraditionalForm], None}, {
             FormBox[
              TagBox[
              "\"\[Mu]mol quanta \\!\\(\\*SuperscriptBox[\\(m\\), \
@@ -6474,9 +6936,9 @@ QRFUJ5vfTWIZ4D97ZhY8
               SlotSequence[1], {4, 2}]& )[
               SlotSequence[1]], {Identity, Identity}]& , Automatic}}, 
          GridLines -> {None, None}, GridLinesStyle -> Directive[
-           GrayLevel[0.5, 0.4]], ImagePadding -> {{50, 5}, {45, 10}}, 
+           GrayLevel[0.5, 0.4]], ImagePadding -> {{80, 5}, {45, 10}}, 
          ImageSize -> 
-         NCache[{55 + 110 GoldenRatio, 165}, {232.98373876248843`, 165}], 
+         NCache[{85 + 110 GoldenRatio, 165}, {262.98373876248843`, 165}], 
          LabelStyle -> 13, 
          Method -> {
           "AxisPadding" -> Scaled[0.02], "DefaultBoundaryStyle" -> Automatic, 
@@ -6695,8 +7157,8 @@ IK4IU+9uJPdwWJF2UUvhLlkxG4XvxPPPlZC1suHxzcygK49smI0Hrl94t8Ve
                    "Frame" -> {{True, None}, {True, None}}, 
                    "AxesOrigin" -> {0., 0.}, 
                    "ImageSize" -> {
-                    55 + 110 GoldenRatio, 
-                    GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                    85 + 110 GoldenRatio, 
+                    GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                    "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13},
                     "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                     Directive[
@@ -6724,8 +7186,8 @@ IK4IU+9uJPdwWJF2UUvhLlkxG4XvxPPPlZC1suHxzcygK49smI0Hrl94t8Ve
                   "Frame" -> {{True, None}, {True, None}}, 
                   "AxesOrigin" -> {0., 0.}, 
                   "ImageSize" -> {
-                   55 + 110 GoldenRatio, 
-                    GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                   85 + 110 GoldenRatio, 
+                    GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                   "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13}, 
                   "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                     Directive[
@@ -6816,8 +7278,8 @@ IK4IU+9uJPdwWJF2UUvhLlkxG4XvxPPPlZC1suHxzcygK49smI0Hrl94t8Ve
                "Frame" -> {{True, None}, {True, None}}, 
                "AxesOrigin" -> {0., 0.}, 
                "ImageSize" -> {
-                55 + 110 GoldenRatio, 
-                 GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                85 + 110 GoldenRatio, 
+                 GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13}, 
                "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                  Directive[
@@ -6842,8 +7304,12 @@ IK4IU+9uJPdwWJF2UUvhLlkxG4XvxPPPlZC1suHxzcygK49smI0Hrl94t8Ve
          Identity, FormatType :> (Style[
            TraditionalForm[
             SlotSequence[1]], SingleLetterItalics -> True]& ), 
-         Frame -> {{True, None}, {True, None}}, 
-         FrameLabel -> {{None, None}, {
+         Frame -> {{True, None}, {True, None}}, FrameLabel -> {{
+            FormBox[
+             TagBox[
+             "\"\[Mu]mol quanta \\!\\(\\*SuperscriptBox[\\(m\\), \
+\\(-\\(2\\)\\(\\\\ \\)\\)]\\)\\!\\(\\*SuperscriptBox[\\(s\\), \\(-1\\)]\\)\"",
+               HoldForm], TraditionalForm], None}, {
             FormBox[
              TagBox[
              "\"\[Mu]mol quanta \\!\\(\\*SuperscriptBox[\\(m\\), \
@@ -6858,9 +7324,9 @@ IK4IU+9uJPdwWJF2UUvhLlkxG4XvxPPPlZC1suHxzcygK49smI0Hrl94t8Ve
               SlotSequence[1], {4, 2}]& )[
               SlotSequence[1]], {Identity, Identity}]& , Automatic}}, 
          GridLines -> {None, None}, GridLinesStyle -> Directive[
-           GrayLevel[0.5, 0.4]], ImagePadding -> {{50, 5}, {45, 10}}, 
+           GrayLevel[0.5, 0.4]], ImagePadding -> {{80, 5}, {45, 10}}, 
          ImageSize -> 
-         NCache[{55 + 110 GoldenRatio, 165}, {232.98373876248843`, 165}], 
+         NCache[{85 + 110 GoldenRatio, 165}, {262.98373876248843`, 165}], 
          LabelStyle -> 13, 
          Method -> {
           "AxisPadding" -> Scaled[0.02], "DefaultBoundaryStyle" -> Automatic, 
@@ -7079,8 +7545,8 @@ rVQY4Wyv1uoowT+9/zfC
                    "Frame" -> {{True, None}, {True, None}}, 
                    "AxesOrigin" -> {0., 0.}, 
                    "ImageSize" -> {
-                    55 + 110 GoldenRatio, 
-                    GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                    85 + 110 GoldenRatio, 
+                    GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                    "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13},
                     "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                     Directive[
@@ -7108,8 +7574,8 @@ rVQY4Wyv1uoowT+9/zfC
                   "Frame" -> {{True, None}, {True, None}}, 
                   "AxesOrigin" -> {0., 0.}, 
                   "ImageSize" -> {
-                   55 + 110 GoldenRatio, 
-                    GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                   85 + 110 GoldenRatio, 
+                    GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                   "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13}, 
                   "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                     Directive[
@@ -7200,8 +7666,8 @@ rVQY4Wyv1uoowT+9/zfC
                "Frame" -> {{True, None}, {True, None}}, 
                "AxesOrigin" -> {0., 0.}, 
                "ImageSize" -> {
-                55 + 110 GoldenRatio, 
-                 GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                85 + 110 GoldenRatio, 
+                 GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13}, 
                "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                  Directive[
@@ -7226,8 +7692,12 @@ rVQY4Wyv1uoowT+9/zfC
          Identity, FormatType :> (Style[
            TraditionalForm[
             SlotSequence[1]], SingleLetterItalics -> True]& ), 
-         Frame -> {{True, None}, {True, None}}, 
-         FrameLabel -> {{None, None}, {
+         Frame -> {{True, None}, {True, None}}, FrameLabel -> {{
+            FormBox[
+             TagBox[
+             "\"\[Mu]mol quanta \\!\\(\\*SuperscriptBox[\\(m\\), \
+\\(-\\(2\\)\\(\\\\ \\)\\)]\\)\\!\\(\\*SuperscriptBox[\\(s\\), \\(-1\\)]\\)\"",
+               HoldForm], TraditionalForm], None}, {
             FormBox[
              TagBox[
              "\"\[Mu]mol quanta \\!\\(\\*SuperscriptBox[\\(m\\), \
@@ -7242,9 +7712,9 @@ rVQY4Wyv1uoowT+9/zfC
               SlotSequence[1], {4, 2}]& )[
               SlotSequence[1]], {Identity, Identity}]& , Automatic}}, 
          GridLines -> {None, None}, GridLinesStyle -> Directive[
-           GrayLevel[0.5, 0.4]], ImagePadding -> {{50, 5}, {45, 10}}, 
+           GrayLevel[0.5, 0.4]], ImagePadding -> {{80, 5}, {45, 10}}, 
          ImageSize -> 
-         NCache[{55 + 110 GoldenRatio, 165}, {232.98373876248843`, 165}], 
+         NCache[{85 + 110 GoldenRatio, 165}, {262.98373876248843`, 165}], 
          LabelStyle -> 13, 
          Method -> {
           "AxisPadding" -> Scaled[0.02], "DefaultBoundaryStyle" -> Automatic, 
@@ -7464,8 +7934,8 @@ IpfPA/XyIesdhk/NqWu5AjLnMJZ5/Po8y16+8n9U+HTw
                    "Frame" -> {{True, None}, {True, None}}, 
                    "AxesOrigin" -> {0., 0.}, 
                    "ImageSize" -> {
-                    55 + 110 GoldenRatio, 
-                    GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                    85 + 110 GoldenRatio, 
+                    GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                    "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13},
                     "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                     Directive[
@@ -7493,8 +7963,8 @@ IpfPA/XyIesdhk/NqWu5AjLnMJZ5/Po8y16+8n9U+HTw
                   "Frame" -> {{True, None}, {True, None}}, 
                   "AxesOrigin" -> {0., 0.}, 
                   "ImageSize" -> {
-                   55 + 110 GoldenRatio, 
-                    GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                   85 + 110 GoldenRatio, 
+                    GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                   "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13}, 
                   "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                     Directive[
@@ -7584,8 +8054,8 @@ IpfPA/XyIesdhk/NqWu5AjLnMJZ5/Po8y16+8n9U+HTw
                "Frame" -> {{True, None}, {True, None}}, 
                "AxesOrigin" -> {0., 0.}, 
                "ImageSize" -> {
-                55 + 110 GoldenRatio, 
-                 GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                85 + 110 GoldenRatio, 
+                 GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13}, 
                "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                  Directive[
@@ -7610,8 +8080,12 @@ IpfPA/XyIesdhk/NqWu5AjLnMJZ5/Po8y16+8n9U+HTw
          Identity, FormatType :> (Style[
            TraditionalForm[
             SlotSequence[1]], SingleLetterItalics -> True]& ), 
-         Frame -> {{True, None}, {True, None}}, 
-         FrameLabel -> {{None, None}, {
+         Frame -> {{True, None}, {True, None}}, FrameLabel -> {{
+            FormBox[
+             TagBox[
+             "\"\[Mu]mol quanta \\!\\(\\*SuperscriptBox[\\(m\\), \
+\\(-\\(2\\)\\(\\\\ \\)\\)]\\)\\!\\(\\*SuperscriptBox[\\(s\\), \\(-1\\)]\\)\"",
+               HoldForm], TraditionalForm], None}, {
             FormBox[
              TagBox[
              "\"\[Mu]mol quanta \\!\\(\\*SuperscriptBox[\\(m\\), \
@@ -7626,9 +8100,9 @@ IpfPA/XyIesdhk/NqWu5AjLnMJZ5/Po8y16+8n9U+HTw
               SlotSequence[1], {4, 2}]& )[
               SlotSequence[1]], {Identity, Identity}]& , Automatic}}, 
          GridLines -> {None, None}, GridLinesStyle -> Directive[
-           GrayLevel[0.5, 0.4]], ImagePadding -> {{50, 5}, {45, 10}}, 
+           GrayLevel[0.5, 0.4]], ImagePadding -> {{80, 5}, {45, 10}}, 
          ImageSize -> 
-         NCache[{55 + 110 GoldenRatio, 165}, {232.98373876248843`, 165}], 
+         NCache[{85 + 110 GoldenRatio, 165}, {262.98373876248843`, 165}], 
          LabelStyle -> 13, 
          Method -> {
           "AxisPadding" -> Scaled[0.02], "DefaultBoundaryStyle" -> Automatic, 
@@ -7845,8 +8319,8 @@ lOl4Ff9o0GTzPyhDkwM=
                    "Frame" -> {{True, None}, {True, None}}, 
                    "AxesOrigin" -> {0., 0.}, 
                    "ImageSize" -> {
-                    55 + 110 GoldenRatio, 
-                    GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                    85 + 110 GoldenRatio, 
+                    GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                    "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13},
                     "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                     Directive[
@@ -7874,8 +8348,8 @@ lOl4Ff9o0GTzPyhDkwM=
                   "Frame" -> {{True, None}, {True, None}}, 
                   "AxesOrigin" -> {0., 0.}, 
                   "ImageSize" -> {
-                   55 + 110 GoldenRatio, 
-                    GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                   85 + 110 GoldenRatio, 
+                    GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                   "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13}, 
                   "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                     Directive[
@@ -7965,8 +8439,8 @@ lOl4Ff9o0GTzPyhDkwM=
                "Frame" -> {{True, None}, {True, None}}, 
                "AxesOrigin" -> {0., 0.}, 
                "ImageSize" -> {
-                55 + 110 GoldenRatio, 
-                 GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                85 + 110 GoldenRatio, 
+                 GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13}, 
                "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                  Directive[
@@ -7991,8 +8465,12 @@ lOl4Ff9o0GTzPyhDkwM=
          Identity, FormatType :> (Style[
            TraditionalForm[
             SlotSequence[1]], SingleLetterItalics -> True]& ), 
-         Frame -> {{True, None}, {True, None}}, 
-         FrameLabel -> {{None, None}, {
+         Frame -> {{True, None}, {True, None}}, FrameLabel -> {{
+            FormBox[
+             TagBox[
+             "\"\[Mu]mol quanta \\!\\(\\*SuperscriptBox[\\(m\\), \
+\\(-\\(2\\)\\(\\\\ \\)\\)]\\)\\!\\(\\*SuperscriptBox[\\(s\\), \\(-1\\)]\\)\"",
+               HoldForm], TraditionalForm], None}, {
             FormBox[
              TagBox[
              "\"\[Mu]mol quanta \\!\\(\\*SuperscriptBox[\\(m\\), \
@@ -8007,9 +8485,9 @@ lOl4Ff9o0GTzPyhDkwM=
               SlotSequence[1], {4, 2}]& )[
               SlotSequence[1]], {Identity, Identity}]& , Automatic}}, 
          GridLines -> {None, None}, GridLinesStyle -> Directive[
-           GrayLevel[0.5, 0.4]], ImagePadding -> {{50, 5}, {45, 10}}, 
+           GrayLevel[0.5, 0.4]], ImagePadding -> {{80, 5}, {45, 10}}, 
          ImageSize -> 
-         NCache[{55 + 110 GoldenRatio, 165}, {232.98373876248843`, 165}], 
+         NCache[{85 + 110 GoldenRatio, 165}, {262.98373876248843`, 165}], 
          LabelStyle -> 13, 
          Method -> {
           "AxisPadding" -> Scaled[0.02], "DefaultBoundaryStyle" -> Automatic, 
@@ -8109,8 +8587,8 @@ lOl4Ff9o0GTzPyhDkwM=
    3.967062931328598*^9, 3.967063003267799*^9}, 3.967063046726644*^9, 
    3.967312072496752*^9, {3.967312549274288*^9, 3.967312587348846*^9}, 
    3.9680837528066797`*^9, 3.968085620120249*^9, 3.9680857949561872`*^9, 
-   3.96810755483442*^9},
- CellLabel->"Out[7]=",ExpressionUUID->"f64a29aa-57cf-43b9-a203-73b5a066ea53"]
+   3.96810755483442*^9, 3.9681579542641068`*^9},
+ CellLabel->"Out[88]=",ExpressionUUID->"eb321bcc-9bd4-48c0-b512-5d8bac3f5409"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -8151,7 +8629,7 @@ Cell[BoxData[
    3.9680838143223333`*^9, 3.968083823464376*^9}, 3.968083883604684*^9, {
    3.9680856410962563`*^9, 3.968085641442861*^9}, {3.968107566726995*^9, 
    3.968107568216544*^9}},
- CellLabel->"In[8]:=",ExpressionUUID->"20a02a09-1474-4169-a8e8-4e31ce380b2f"],
+ CellLabel->"In[89]:=",ExpressionUUID->"20a02a09-1474-4169-a8e8-4e31ce380b2f"],
 
 Cell[BoxData[
  StyleBox[
@@ -8216,8 +8694,8 @@ u9zn4NGQ7HKfA99ll/sctF52uc/BjSHmpajLfdTlPupyH3W5767q5wCWbNg=
                    "Frame" -> {{True, None}, {True, None}}, 
                    "AxesOrigin" -> {24.77083333333339, 0.}, 
                    "ImageSize" -> {
-                    55 + 110 GoldenRatio, 
-                    GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                    85 + 110 GoldenRatio, 
+                    GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                    "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13},
                     "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                     Directive[
@@ -8246,8 +8724,8 @@ u9zn4NGQ7HKfA99ll/sctF52uc/BjSHmpajLfdTlPupyH3W5767q5wCWbNg=
                   "Frame" -> {{True, None}, {True, None}}, 
                   "AxesOrigin" -> {24.77083333333339, 0.}, 
                   "ImageSize" -> {
-                   55 + 110 GoldenRatio, 
-                    GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                   85 + 110 GoldenRatio, 
+                    GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                   "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13}, 
                   "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                     Directive[
@@ -8298,8 +8776,8 @@ u9zn4NGQ7HKfA99ll/sctF52uc/BjSHmpajLfdTlPupyH3W5767q5wCWbNg=
                 1.38461516487482}}, "Frame" -> {{True, None}, {True, None}}, 
                "AxesOrigin" -> {24.77083333333339, 0.}, 
                "ImageSize" -> {
-                55 + 110 GoldenRatio, 
-                 GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                85 + 110 GoldenRatio, 
+                 GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13}, 
                "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                  Directive[
@@ -8324,8 +8802,9 @@ u9zn4NGQ7HKfA99ll/sctF52uc/BjSHmpajLfdTlPupyH3W5767q5wCWbNg=
          Identity, FormatType :> (Style[
            TraditionalForm[
             SlotSequence[1]], SingleLetterItalics -> True]& ), 
-         Frame -> {{True, None}, {True, None}}, 
-         FrameLabel -> {{None, None}, {
+         Frame -> {{True, None}, {True, None}}, FrameLabel -> {{
+            FormBox[
+             TagBox["\"\[Degree]C\"", HoldForm], TraditionalForm], None}, {
             FormBox[
              TagBox["\"\[Degree]C\"", HoldForm], TraditionalForm], None}}, 
          FrameTicks -> {{Charting`FindScaledTicks[
@@ -8337,9 +8816,9 @@ u9zn4NGQ7HKfA99ll/sctF52uc/BjSHmpajLfdTlPupyH3W5767q5wCWbNg=
               SlotSequence[1], {4, 2}]& )[
               SlotSequence[1]], {Identity, Identity}]& , Automatic}}, 
          GridLines -> {None, None}, GridLinesStyle -> Directive[
-           GrayLevel[0.5, 0.4]], ImagePadding -> {{50, 5}, {45, 10}}, 
+           GrayLevel[0.5, 0.4]], ImagePadding -> {{80, 5}, {45, 10}}, 
          ImageSize -> 
-         NCache[{55 + 110 GoldenRatio, 165}, {232.98373876248843`, 165}], 
+         NCache[{85 + 110 GoldenRatio, 165}, {262.98373876248843`, 165}], 
          LabelStyle -> 13, 
          Method -> {
           "AxisPadding" -> Scaled[0.02], "DefaultBoundaryStyle" -> Automatic, 
@@ -8485,8 +8964,8 @@ Jn0mGBJkkz4T/vwgm/SZsEg36TMhRTfpy27Sl92kL7tJX3aTvor/+x+QxYoQ
                    "Frame" -> {{True, None}, {True, None}}, 
                    "AxesOrigin" -> {24.77083333333339, 0.}, 
                    "ImageSize" -> {
-                    55 + 110 GoldenRatio, 
-                    GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                    85 + 110 GoldenRatio, 
+                    GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                    "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13},
                     "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                     Directive[
@@ -8515,8 +8994,8 @@ Jn0mGBJkkz4T/vwgm/SZsEg36TMhRTfpy27Sl92kL7tJX3aTvor/+x+QxYoQ
                   "Frame" -> {{True, None}, {True, None}}, 
                   "AxesOrigin" -> {24.77083333333339, 0.}, 
                   "ImageSize" -> {
-                   55 + 110 GoldenRatio, 
-                    GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                   85 + 110 GoldenRatio, 
+                    GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                   "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13}, 
                   "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                     Directive[
@@ -8571,8 +9050,8 @@ Jn0mGBJkkz4T/vwgm/SZsEg36TMhRTfpy27Sl92kL7tJX3aTvor/+x+QxYoQ
                "Frame" -> {{True, None}, {True, None}}, 
                "AxesOrigin" -> {24.77083333333339, 0.}, 
                "ImageSize" -> {
-                55 + 110 GoldenRatio, 
-                 GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                85 + 110 GoldenRatio, 
+                 GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13}, 
                "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                  Directive[
@@ -8597,8 +9076,9 @@ Jn0mGBJkkz4T/vwgm/SZsEg36TMhRTfpy27Sl92kL7tJX3aTvor/+x+QxYoQ
          Identity, FormatType :> (Style[
            TraditionalForm[
             SlotSequence[1]], SingleLetterItalics -> True]& ), 
-         Frame -> {{True, None}, {True, None}}, 
-         FrameLabel -> {{None, None}, {
+         Frame -> {{True, None}, {True, None}}, FrameLabel -> {{
+            FormBox[
+             TagBox["\"\[Degree]C\"", HoldForm], TraditionalForm], None}, {
             FormBox[
              TagBox["\"\[Degree]C\"", HoldForm], TraditionalForm], None}}, 
          FrameTicks -> {{Charting`FindScaledTicks[
@@ -8610,9 +9090,9 @@ Jn0mGBJkkz4T/vwgm/SZsEg36TMhRTfpy27Sl92kL7tJX3aTvor/+x+QxYoQ
               SlotSequence[1], {4, 2}]& )[
               SlotSequence[1]], {Identity, Identity}]& , Automatic}}, 
          GridLines -> {None, None}, GridLinesStyle -> Directive[
-           GrayLevel[0.5, 0.4]], ImagePadding -> {{50, 5}, {45, 10}}, 
+           GrayLevel[0.5, 0.4]], ImagePadding -> {{80, 5}, {45, 10}}, 
          ImageSize -> 
-         NCache[{55 + 110 GoldenRatio, 165}, {232.98373876248843`, 165}], 
+         NCache[{85 + 110 GoldenRatio, 165}, {262.98373876248843`, 165}], 
          LabelStyle -> 13, 
          Method -> {
           "AxisPadding" -> Scaled[0.02], "DefaultBoundaryStyle" -> Automatic, 
@@ -8761,8 +9241,8 @@ L7iTvuBO+oI76QvupC/1//4P7zxoMg==
                    "Frame" -> {{True, None}, {True, None}}, 
                    "AxesOrigin" -> {24.77083333333339, 0.}, 
                    "ImageSize" -> {
-                    55 + 110 GoldenRatio, 
-                    GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                    85 + 110 GoldenRatio, 
+                    GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                    "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13},
                     "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                     Directive[
@@ -8791,8 +9271,8 @@ L7iTvuBO+oI76QvupC/1//4P7zxoMg==
                   "Frame" -> {{True, None}, {True, None}}, 
                   "AxesOrigin" -> {24.77083333333339, 0.}, 
                   "ImageSize" -> {
-                   55 + 110 GoldenRatio, 
-                    GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                   85 + 110 GoldenRatio, 
+                    GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                   "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13}, 
                   "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                     Directive[
@@ -8847,8 +9327,8 @@ L7iTvuBO+oI76QvupC/1//4P7zxoMg==
                "Frame" -> {{True, None}, {True, None}}, 
                "AxesOrigin" -> {24.77083333333339, 0.}, 
                "ImageSize" -> {
-                55 + 110 GoldenRatio, 
-                 GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                85 + 110 GoldenRatio, 
+                 GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13}, 
                "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                  Directive[
@@ -8873,8 +9353,9 @@ L7iTvuBO+oI76QvupC/1//4P7zxoMg==
          Identity, FormatType :> (Style[
            TraditionalForm[
             SlotSequence[1]], SingleLetterItalics -> True]& ), 
-         Frame -> {{True, None}, {True, None}}, 
-         FrameLabel -> {{None, None}, {
+         Frame -> {{True, None}, {True, None}}, FrameLabel -> {{
+            FormBox[
+             TagBox["\"\[Degree]C\"", HoldForm], TraditionalForm], None}, {
             FormBox[
              TagBox["\"\[Degree]C\"", HoldForm], TraditionalForm], None}}, 
          FrameTicks -> {{Charting`FindScaledTicks[
@@ -8886,9 +9367,9 @@ L7iTvuBO+oI76QvupC/1//4P7zxoMg==
               SlotSequence[1], {4, 2}]& )[
               SlotSequence[1]], {Identity, Identity}]& , Automatic}}, 
          GridLines -> {None, None}, GridLinesStyle -> Directive[
-           GrayLevel[0.5, 0.4]], ImagePadding -> {{50, 5}, {45, 10}}, 
+           GrayLevel[0.5, 0.4]], ImagePadding -> {{80, 5}, {45, 10}}, 
          ImageSize -> 
-         NCache[{55 + 110 GoldenRatio, 165}, {232.98373876248843`, 165}], 
+         NCache[{85 + 110 GoldenRatio, 165}, {262.98373876248843`, 165}], 
          LabelStyle -> 13, 
          Method -> {
           "AxisPadding" -> Scaled[0.02], "DefaultBoundaryStyle" -> Automatic, 
@@ -9035,8 +9516,8 @@ yb5MJ/synezb87//A6p6e/c=
                    "Frame" -> {{True, None}, {True, None}}, 
                    "AxesOrigin" -> {24.77083333333339, 0.}, 
                    "ImageSize" -> {
-                    55 + 110 GoldenRatio, 
-                    GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                    85 + 110 GoldenRatio, 
+                    GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                    "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13},
                     "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                     Directive[
@@ -9065,8 +9546,8 @@ yb5MJ/synezb87//A6p6e/c=
                   "Frame" -> {{True, None}, {True, None}}, 
                   "AxesOrigin" -> {24.77083333333339, 0.}, 
                   "ImageSize" -> {
-                   55 + 110 GoldenRatio, 
-                    GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                   85 + 110 GoldenRatio, 
+                    GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                   "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13}, 
                   "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                     Directive[
@@ -9121,8 +9602,8 @@ yb5MJ/synezb87//A6p6e/c=
                "Frame" -> {{True, None}, {True, None}}, 
                "AxesOrigin" -> {24.77083333333339, 0.}, 
                "ImageSize" -> {
-                55 + 110 GoldenRatio, 
-                 GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                85 + 110 GoldenRatio, 
+                 GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13}, 
                "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                  Directive[
@@ -9147,8 +9628,9 @@ yb5MJ/synezb87//A6p6e/c=
          Identity, FormatType :> (Style[
            TraditionalForm[
             SlotSequence[1]], SingleLetterItalics -> True]& ), 
-         Frame -> {{True, None}, {True, None}}, 
-         FrameLabel -> {{None, None}, {
+         Frame -> {{True, None}, {True, None}}, FrameLabel -> {{
+            FormBox[
+             TagBox["\"\[Degree]C\"", HoldForm], TraditionalForm], None}, {
             FormBox[
              TagBox["\"\[Degree]C\"", HoldForm], TraditionalForm], None}}, 
          FrameTicks -> {{Charting`FindScaledTicks[
@@ -9160,9 +9642,9 @@ yb5MJ/synezb87//A6p6e/c=
               SlotSequence[1], {4, 2}]& )[
               SlotSequence[1]], {Identity, Identity}]& , Automatic}}, 
          GridLines -> {None, None}, GridLinesStyle -> Directive[
-           GrayLevel[0.5, 0.4]], ImagePadding -> {{50, 5}, {45, 10}}, 
+           GrayLevel[0.5, 0.4]], ImagePadding -> {{80, 5}, {45, 10}}, 
          ImageSize -> 
-         NCache[{55 + 110 GoldenRatio, 165}, {232.98373876248843`, 165}], 
+         NCache[{85 + 110 GoldenRatio, 165}, {262.98373876248843`, 165}], 
          LabelStyle -> 13, 
          Method -> {
           "AxisPadding" -> Scaled[0.02], "DefaultBoundaryStyle" -> Automatic, 
@@ -9314,8 +9796,8 @@ LF18aQ==
                    "Frame" -> {{True, None}, {True, None}}, 
                    "AxesOrigin" -> {24.77083333333339, 0.}, 
                    "ImageSize" -> {
-                    55 + 110 GoldenRatio, 
-                    GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                    85 + 110 GoldenRatio, 
+                    GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                    "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13},
                     "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                     Directive[
@@ -9344,8 +9826,8 @@ LF18aQ==
                   "Frame" -> {{True, None}, {True, None}}, 
                   "AxesOrigin" -> {24.77083333333339, 0.}, 
                   "ImageSize" -> {
-                   55 + 110 GoldenRatio, 
-                    GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                   85 + 110 GoldenRatio, 
+                    GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                   "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13}, 
                   "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                     Directive[
@@ -9401,8 +9883,8 @@ LF18aQ==
                "Frame" -> {{True, None}, {True, None}}, 
                "AxesOrigin" -> {24.77083333333339, 0.}, 
                "ImageSize" -> {
-                55 + 110 GoldenRatio, 
-                 GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                85 + 110 GoldenRatio, 
+                 GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13}, 
                "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                  Directive[
@@ -9427,8 +9909,9 @@ LF18aQ==
          Identity, FormatType :> (Style[
            TraditionalForm[
             SlotSequence[1]], SingleLetterItalics -> True]& ), 
-         Frame -> {{True, None}, {True, None}}, 
-         FrameLabel -> {{None, None}, {
+         Frame -> {{True, None}, {True, None}}, FrameLabel -> {{
+            FormBox[
+             TagBox["\"\[Degree]C\"", HoldForm], TraditionalForm], None}, {
             FormBox[
              TagBox["\"\[Degree]C\"", HoldForm], TraditionalForm], None}}, 
          FrameTicks -> {{Charting`FindScaledTicks[
@@ -9440,9 +9923,9 @@ LF18aQ==
               SlotSequence[1], {4, 2}]& )[
               SlotSequence[1]], {Identity, Identity}]& , Automatic}}, 
          GridLines -> {None, None}, GridLinesStyle -> Directive[
-           GrayLevel[0.5, 0.4]], ImagePadding -> {{50, 5}, {45, 10}}, 
+           GrayLevel[0.5, 0.4]], ImagePadding -> {{80, 5}, {45, 10}}, 
          ImageSize -> 
-         NCache[{55 + 110 GoldenRatio, 165}, {232.98373876248843`, 165}], 
+         NCache[{85 + 110 GoldenRatio, 165}, {262.98373876248843`, 165}], 
          LabelStyle -> 13, 
          Method -> {
           "AxisPadding" -> Scaled[0.02], "DefaultBoundaryStyle" -> Automatic, 
@@ -9591,8 +10074,8 @@ HQ==
                    "Frame" -> {{True, None}, {True, None}}, 
                    "AxesOrigin" -> {24.77083333333339, 0.}, 
                    "ImageSize" -> {
-                    55 + 110 GoldenRatio, 
-                    GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                    85 + 110 GoldenRatio, 
+                    GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                    "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13},
                     "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                     Directive[
@@ -9621,8 +10104,8 @@ HQ==
                   "Frame" -> {{True, None}, {True, None}}, 
                   "AxesOrigin" -> {24.77083333333339, 0.}, 
                   "ImageSize" -> {
-                   55 + 110 GoldenRatio, 
-                    GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                   85 + 110 GoldenRatio, 
+                    GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                   "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13}, 
                   "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                     Directive[
@@ -9678,8 +10161,8 @@ HQ==
                "Frame" -> {{True, None}, {True, None}}, 
                "AxesOrigin" -> {24.77083333333339, 0.}, 
                "ImageSize" -> {
-                55 + 110 GoldenRatio, 
-                 GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                85 + 110 GoldenRatio, 
+                 GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13}, 
                "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                  Directive[
@@ -9704,8 +10187,9 @@ HQ==
          Identity, FormatType :> (Style[
            TraditionalForm[
             SlotSequence[1]], SingleLetterItalics -> True]& ), 
-         Frame -> {{True, None}, {True, None}}, 
-         FrameLabel -> {{None, None}, {
+         Frame -> {{True, None}, {True, None}}, FrameLabel -> {{
+            FormBox[
+             TagBox["\"\[Degree]C\"", HoldForm], TraditionalForm], None}, {
             FormBox[
              TagBox["\"\[Degree]C\"", HoldForm], TraditionalForm], None}}, 
          FrameTicks -> {{Charting`FindScaledTicks[
@@ -9717,9 +10201,9 @@ HQ==
               SlotSequence[1], {4, 2}]& )[
               SlotSequence[1]], {Identity, Identity}]& , Automatic}}, 
          GridLines -> {None, None}, GridLinesStyle -> Directive[
-           GrayLevel[0.5, 0.4]], ImagePadding -> {{50, 5}, {45, 10}}, 
+           GrayLevel[0.5, 0.4]], ImagePadding -> {{80, 5}, {45, 10}}, 
          ImageSize -> 
-         NCache[{55 + 110 GoldenRatio, 165}, {232.98373876248843`, 165}], 
+         NCache[{85 + 110 GoldenRatio, 165}, {262.98373876248843`, 165}], 
          LabelStyle -> 13, 
          Method -> {
           "AxisPadding" -> Scaled[0.02], "DefaultBoundaryStyle" -> Automatic, 
@@ -9865,8 +10349,8 @@ l6Zubne+T8HZ1Ynzf7Y73+fsfJ+z833Ozvc5O98X87//Ay7cdds=
                    "Frame" -> {{True, None}, {True, None}}, 
                    "AxesOrigin" -> {24.77083333333339, 0.}, 
                    "ImageSize" -> {
-                    55 + 110 GoldenRatio, 
-                    GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                    85 + 110 GoldenRatio, 
+                    GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                    "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13},
                     "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                     Directive[
@@ -9895,8 +10379,8 @@ l6Zubne+T8HZ1Ynzf7Y73+fsfJ+z833Ozvc5O98X87//Ay7cdds=
                   "Frame" -> {{True, None}, {True, None}}, 
                   "AxesOrigin" -> {24.77083333333339, 0.}, 
                   "ImageSize" -> {
-                   55 + 110 GoldenRatio, 
-                    GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                   85 + 110 GoldenRatio, 
+                    GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                   "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13}, 
                   "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                     Directive[
@@ -9951,8 +10435,8 @@ l6Zubne+T8HZ1Ynzf7Y73+fsfJ+z833Ozvc5O98X87//Ay7cdds=
                "Frame" -> {{True, None}, {True, None}}, 
                "AxesOrigin" -> {24.77083333333339, 0.}, 
                "ImageSize" -> {
-                55 + 110 GoldenRatio, 
-                 GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                85 + 110 GoldenRatio, 
+                 GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13}, 
                "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                  Directive[
@@ -9977,8 +10461,9 @@ l6Zubne+T8HZ1Ynzf7Y73+fsfJ+z833Ozvc5O98X87//Ay7cdds=
          Identity, FormatType :> (Style[
            TraditionalForm[
             SlotSequence[1]], SingleLetterItalics -> True]& ), 
-         Frame -> {{True, None}, {True, None}}, 
-         FrameLabel -> {{None, None}, {
+         Frame -> {{True, None}, {True, None}}, FrameLabel -> {{
+            FormBox[
+             TagBox["\"\[Degree]C\"", HoldForm], TraditionalForm], None}, {
             FormBox[
              TagBox["\"\[Degree]C\"", HoldForm], TraditionalForm], None}}, 
          FrameTicks -> {{Charting`FindScaledTicks[
@@ -9990,9 +10475,9 @@ l6Zubne+T8HZ1Ynzf7Y73+fsfJ+z833Ozvc5O98X87//Ay7cdds=
               SlotSequence[1], {4, 2}]& )[
               SlotSequence[1]], {Identity, Identity}]& , Automatic}}, 
          GridLines -> {None, None}, GridLinesStyle -> Directive[
-           GrayLevel[0.5, 0.4]], ImagePadding -> {{50, 5}, {45, 10}}, 
+           GrayLevel[0.5, 0.4]], ImagePadding -> {{80, 5}, {45, 10}}, 
          ImageSize -> 
-         NCache[{55 + 110 GoldenRatio, 165}, {232.98373876248843`, 165}], 
+         NCache[{85 + 110 GoldenRatio, 165}, {262.98373876248843`, 165}], 
          LabelStyle -> 13, 
          Method -> {
           "AxisPadding" -> Scaled[0.02], "DefaultBoundaryStyle" -> Automatic, 
@@ -10139,8 +10624,8 @@ s33FZvuKzfYVm+3bqPY/cviU4Q==
                    "Frame" -> {{True, None}, {True, None}}, 
                    "AxesOrigin" -> {24.77083333333339, 0.}, 
                    "ImageSize" -> {
-                    55 + 110 GoldenRatio, 
-                    GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                    85 + 110 GoldenRatio, 
+                    GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                    "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13},
                     "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                     Directive[
@@ -10169,8 +10654,8 @@ s33FZvuKzfYVm+3bqPY/cviU4Q==
                   "Frame" -> {{True, None}, {True, None}}, 
                   "AxesOrigin" -> {24.77083333333339, 0.}, 
                   "ImageSize" -> {
-                   55 + 110 GoldenRatio, 
-                    GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                   85 + 110 GoldenRatio, 
+                    GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                   "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13}, 
                   "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                     Directive[
@@ -10224,8 +10709,8 @@ s33FZvuKzfYVm+3bqPY/cviU4Q==
                "Frame" -> {{True, None}, {True, None}}, 
                "AxesOrigin" -> {24.77083333333339, 0.}, 
                "ImageSize" -> {
-                55 + 110 GoldenRatio, 
-                 GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                85 + 110 GoldenRatio, 
+                 GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13}, 
                "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                  Directive[
@@ -10250,8 +10735,9 @@ s33FZvuKzfYVm+3bqPY/cviU4Q==
          Identity, FormatType :> (Style[
            TraditionalForm[
             SlotSequence[1]], SingleLetterItalics -> True]& ), 
-         Frame -> {{True, None}, {True, None}}, 
-         FrameLabel -> {{None, None}, {
+         Frame -> {{True, None}, {True, None}}, FrameLabel -> {{
+            FormBox[
+             TagBox["\"\[Degree]C\"", HoldForm], TraditionalForm], None}, {
             FormBox[
              TagBox["\"\[Degree]C\"", HoldForm], TraditionalForm], None}}, 
          FrameTicks -> {{Charting`FindScaledTicks[
@@ -10263,9 +10749,9 @@ s33FZvuKzfYVm+3bqPY/cviU4Q==
               SlotSequence[1], {4, 2}]& )[
               SlotSequence[1]], {Identity, Identity}]& , Automatic}}, 
          GridLines -> {None, None}, GridLinesStyle -> Directive[
-           GrayLevel[0.5, 0.4]], ImagePadding -> {{50, 5}, {45, 10}}, 
+           GrayLevel[0.5, 0.4]], ImagePadding -> {{80, 5}, {45, 10}}, 
          ImageSize -> 
-         NCache[{55 + 110 GoldenRatio, 165}, {232.98373876248843`, 165}], 
+         NCache[{85 + 110 GoldenRatio, 165}, {262.98373876248843`, 165}], 
          LabelStyle -> 13, 
          Method -> {
           "AxisPadding" -> Scaled[0.02], "DefaultBoundaryStyle" -> Automatic, 
@@ -10411,8 +10897,8 @@ vsAmfYFN+gKb9AU26Uv+v/8BYcWFDw==
                    "Frame" -> {{True, None}, {True, None}}, 
                    "AxesOrigin" -> {24.77083333333339, 0.}, 
                    "ImageSize" -> {
-                    55 + 110 GoldenRatio, 
-                    GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                    85 + 110 GoldenRatio, 
+                    GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                    "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13},
                     "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                     Directive[
@@ -10441,8 +10927,8 @@ vsAmfYFN+gKb9AU26Uv+v/8BYcWFDw==
                   "Frame" -> {{True, None}, {True, None}}, 
                   "AxesOrigin" -> {24.77083333333339, 0.}, 
                   "ImageSize" -> {
-                   55 + 110 GoldenRatio, 
-                    GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                   85 + 110 GoldenRatio, 
+                    GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                   "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13}, 
                   "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                     Directive[
@@ -10497,8 +10983,8 @@ vsAmfYFN+gKb9AU26Uv+v/8BYcWFDw==
                "Frame" -> {{True, None}, {True, None}}, 
                "AxesOrigin" -> {24.77083333333339, 0.}, 
                "ImageSize" -> {
-                55 + 110 GoldenRatio, 
-                 GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                85 + 110 GoldenRatio, 
+                 GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13}, 
                "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                  Directive[
@@ -10523,8 +11009,9 @@ vsAmfYFN+gKb9AU26Uv+v/8BYcWFDw==
          Identity, FormatType :> (Style[
            TraditionalForm[
             SlotSequence[1]], SingleLetterItalics -> True]& ), 
-         Frame -> {{True, None}, {True, None}}, 
-         FrameLabel -> {{None, None}, {
+         Frame -> {{True, None}, {True, None}}, FrameLabel -> {{
+            FormBox[
+             TagBox["\"\[Degree]C\"", HoldForm], TraditionalForm], None}, {
             FormBox[
              TagBox["\"\[Degree]C\"", HoldForm], TraditionalForm], None}}, 
          FrameTicks -> {{Charting`FindScaledTicks[
@@ -10536,9 +11023,9 @@ vsAmfYFN+gKb9AU26Uv+v/8BYcWFDw==
               SlotSequence[1], {4, 2}]& )[
               SlotSequence[1]], {Identity, Identity}]& , Automatic}}, 
          GridLines -> {None, None}, GridLinesStyle -> Directive[
-           GrayLevel[0.5, 0.4]], ImagePadding -> {{50, 5}, {45, 10}}, 
+           GrayLevel[0.5, 0.4]], ImagePadding -> {{80, 5}, {45, 10}}, 
          ImageSize -> 
-         NCache[{55 + 110 GoldenRatio, 165}, {232.98373876248843`, 165}], 
+         NCache[{85 + 110 GoldenRatio, 165}, {262.98373876248843`, 165}], 
          LabelStyle -> 13, 
          Method -> {
           "AxisPadding" -> Scaled[0.02], "DefaultBoundaryStyle" -> Automatic, 
@@ -10685,8 +11172,8 @@ WA==
                    "Frame" -> {{True, None}, {True, None}}, 
                    "AxesOrigin" -> {24.77083333333339, 0.}, 
                    "ImageSize" -> {
-                    55 + 110 GoldenRatio, 
-                    GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                    85 + 110 GoldenRatio, 
+                    GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                    "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13},
                     "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                     Directive[
@@ -10715,8 +11202,8 @@ WA==
                   "Frame" -> {{True, None}, {True, None}}, 
                   "AxesOrigin" -> {24.77083333333339, 0.}, 
                   "ImageSize" -> {
-                   55 + 110 GoldenRatio, 
-                    GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                   85 + 110 GoldenRatio, 
+                    GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                   "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13}, 
                   "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                     Directive[
@@ -10771,8 +11258,8 @@ WA==
                "Frame" -> {{True, None}, {True, None}}, 
                "AxesOrigin" -> {24.77083333333339, 0.}, 
                "ImageSize" -> {
-                55 + 110 GoldenRatio, 
-                 GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                85 + 110 GoldenRatio, 
+                 GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13}, 
                "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                  Directive[
@@ -10797,8 +11284,9 @@ WA==
          Identity, FormatType :> (Style[
            TraditionalForm[
             SlotSequence[1]], SingleLetterItalics -> True]& ), 
-         Frame -> {{True, None}, {True, None}}, 
-         FrameLabel -> {{None, None}, {
+         Frame -> {{True, None}, {True, None}}, FrameLabel -> {{
+            FormBox[
+             TagBox["\"\[Degree]C\"", HoldForm], TraditionalForm], None}, {
             FormBox[
              TagBox["\"\[Degree]C\"", HoldForm], TraditionalForm], None}}, 
          FrameTicks -> {{Charting`FindScaledTicks[
@@ -10810,9 +11298,9 @@ WA==
               SlotSequence[1], {4, 2}]& )[
               SlotSequence[1]], {Identity, Identity}]& , Automatic}}, 
          GridLines -> {None, None}, GridLinesStyle -> Directive[
-           GrayLevel[0.5, 0.4]], ImagePadding -> {{50, 5}, {45, 10}}, 
+           GrayLevel[0.5, 0.4]], ImagePadding -> {{80, 5}, {45, 10}}, 
          ImageSize -> 
-         NCache[{55 + 110 GoldenRatio, 165}, {232.98373876248843`, 165}], 
+         NCache[{85 + 110 GoldenRatio, 165}, {262.98373876248843`, 165}], 
          LabelStyle -> 13, 
          Method -> {
           "AxisPadding" -> Scaled[0.02], "DefaultBoundaryStyle" -> Automatic, 
@@ -10963,8 +11451,8 @@ WZ+MBoMrY7lggWd9MqzJKdP9LT8mWF9is77EZn2JzfoSm/Xlx/d/lbKGUw==
                    "Frame" -> {{True, None}, {True, None}}, 
                    "AxesOrigin" -> {24.77083333333339, 0.}, 
                    "ImageSize" -> {
-                    55 + 110 GoldenRatio, 
-                    GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                    85 + 110 GoldenRatio, 
+                    GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                    "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13},
                     "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                     Directive[
@@ -10994,8 +11482,8 @@ WZ+MBoMrY7lggWd9MqzJKdP9LT8mWF9is77EZn2JzfoSm/Xlx/d/lbKGUw==
                   "Frame" -> {{True, None}, {True, None}}, 
                   "AxesOrigin" -> {24.77083333333339, 0.}, 
                   "ImageSize" -> {
-                   55 + 110 GoldenRatio, 
-                    GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                   85 + 110 GoldenRatio, 
+                    GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                   "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13}, 
                   "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                     Directive[
@@ -11050,8 +11538,8 @@ WZ+MBoMrY7lggWd9MqzJKdP9LT8mWF9is77EZn2JzfoSm/Xlx/d/lbKGUw==
                "Frame" -> {{True, None}, {True, None}}, 
                "AxesOrigin" -> {24.77083333333339, 0.}, 
                "ImageSize" -> {
-                55 + 110 GoldenRatio, 
-                 GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                85 + 110 GoldenRatio, 
+                 GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13}, 
                "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                  Directive[
@@ -11076,8 +11564,9 @@ WZ+MBoMrY7lggWd9MqzJKdP9LT8mWF9is77EZn2JzfoSm/Xlx/d/lbKGUw==
          Identity, FormatType :> (Style[
            TraditionalForm[
             SlotSequence[1]], SingleLetterItalics -> True]& ), 
-         Frame -> {{True, None}, {True, None}}, 
-         FrameLabel -> {{None, None}, {
+         Frame -> {{True, None}, {True, None}}, FrameLabel -> {{
+            FormBox[
+             TagBox["\"\[Degree]C\"", HoldForm], TraditionalForm], None}, {
             FormBox[
              TagBox["\"\[Degree]C\"", HoldForm], TraditionalForm], None}}, 
          FrameTicks -> {{Charting`FindScaledTicks[
@@ -11089,9 +11578,9 @@ WZ+MBoMrY7lggWd9MqzJKdP9LT8mWF9is77EZn2JzfoSm/Xlx/d/lbKGUw==
               SlotSequence[1], {4, 2}]& )[
               SlotSequence[1]], {Identity, Identity}]& , Automatic}}, 
          GridLines -> {None, None}, GridLinesStyle -> Directive[
-           GrayLevel[0.5, 0.4]], ImagePadding -> {{50, 5}, {45, 10}}, 
+           GrayLevel[0.5, 0.4]], ImagePadding -> {{80, 5}, {45, 10}}, 
          ImageSize -> 
-         NCache[{55 + 110 GoldenRatio, 165}, {232.98373876248843`, 165}], 
+         NCache[{85 + 110 GoldenRatio, 165}, {262.98373876248843`, 165}], 
          LabelStyle -> 13, 
          Method -> {
           "AxisPadding" -> Scaled[0.02], "DefaultBoundaryStyle" -> Automatic, 
@@ -11240,8 +11729,8 @@ Z6I+CSplbE5lvYn6JFQ8aympWtxZn3dnfd6d9Xl31ufdWV/S//0f9ZBqiw==
                    "Frame" -> {{True, None}, {True, None}}, 
                    "AxesOrigin" -> {24.77083333333339, 0.}, 
                    "ImageSize" -> {
-                    55 + 110 GoldenRatio, 
-                    GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                    85 + 110 GoldenRatio, 
+                    GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                    "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13},
                     "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                     Directive[
@@ -11270,8 +11759,8 @@ Z6I+CSplbE5lvYn6JFQ8aympWtxZn3dnfd6d9Xl31ufdWV/S//0f9ZBqiw==
                   "Frame" -> {{True, None}, {True, None}}, 
                   "AxesOrigin" -> {24.77083333333339, 0.}, 
                   "ImageSize" -> {
-                   55 + 110 GoldenRatio, 
-                    GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                   85 + 110 GoldenRatio, 
+                    GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                   "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13}, 
                   "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                     Directive[
@@ -11327,8 +11816,8 @@ Z6I+CSplbE5lvYn6JFQ8aympWtxZn3dnfd6d9Xl31ufdWV/S//0f9ZBqiw==
                "Frame" -> {{True, None}, {True, None}}, 
                "AxesOrigin" -> {24.77083333333339, 0.}, 
                "ImageSize" -> {
-                55 + 110 GoldenRatio, 
-                 GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                85 + 110 GoldenRatio, 
+                 GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13}, 
                "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                  Directive[
@@ -11353,8 +11842,9 @@ Z6I+CSplbE5lvYn6JFQ8aympWtxZn3dnfd6d9Xl31ufdWV/S//0f9ZBqiw==
          Identity, FormatType :> (Style[
            TraditionalForm[
             SlotSequence[1]], SingleLetterItalics -> True]& ), 
-         Frame -> {{True, None}, {True, None}}, 
-         FrameLabel -> {{None, None}, {
+         Frame -> {{True, None}, {True, None}}, FrameLabel -> {{
+            FormBox[
+             TagBox["\"\[Degree]C\"", HoldForm], TraditionalForm], None}, {
             FormBox[
              TagBox["\"\[Degree]C\"", HoldForm], TraditionalForm], None}}, 
          FrameTicks -> {{Charting`FindScaledTicks[
@@ -11366,9 +11856,9 @@ Z6I+CSplbE5lvYn6JFQ8aympWtxZn3dnfd6d9Xl31ufdWV/S//0f9ZBqiw==
               SlotSequence[1], {4, 2}]& )[
               SlotSequence[1]], {Identity, Identity}]& , Automatic}}, 
          GridLines -> {None, None}, GridLinesStyle -> Directive[
-           GrayLevel[0.5, 0.4]], ImagePadding -> {{50, 5}, {45, 10}}, 
+           GrayLevel[0.5, 0.4]], ImagePadding -> {{80, 5}, {45, 10}}, 
          ImageSize -> 
-         NCache[{55 + 110 GoldenRatio, 165}, {232.98373876248843`, 165}], 
+         NCache[{85 + 110 GoldenRatio, 165}, {262.98373876248843`, 165}], 
          LabelStyle -> 13, 
          Method -> {
           "AxisPadding" -> Scaled[0.02], "DefaultBoundaryStyle" -> Automatic, 
@@ -11515,8 +12005,8 @@ s//TgYWu8KI5Mko+YJmSBHKSptn9A4Cwp2jB9WuG3gOGiicG8zK/Me8SMD9q
                    "Frame" -> {{True, None}, {True, None}}, 
                    "AxesOrigin" -> {24.77083333333339, 0.}, 
                    "ImageSize" -> {
-                    55 + 110 GoldenRatio, 
-                    GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                    85 + 110 GoldenRatio, 
+                    GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                    "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13},
                     "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                     Directive[
@@ -11545,8 +12035,8 @@ s//TgYWu8KI5Mko+YJmSBHKSptn9A4Cwp2jB9WuG3gOGiicG8zK/Me8SMD9q
                   "Frame" -> {{True, None}, {True, None}}, 
                   "AxesOrigin" -> {24.77083333333339, 0.}, 
                   "ImageSize" -> {
-                   55 + 110 GoldenRatio, 
-                    GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                   85 + 110 GoldenRatio, 
+                    GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                   "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13}, 
                   "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                     Directive[
@@ -11601,8 +12091,8 @@ s//TgYWu8KI5Mko+YJmSBHKSptn9A4Cwp2jB9WuG3gOGiicG8zK/Me8SMD9q
                "Frame" -> {{True, None}, {True, None}}, 
                "AxesOrigin" -> {24.77083333333339, 0.}, 
                "ImageSize" -> {
-                55 + 110 GoldenRatio, 
-                 GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                85 + 110 GoldenRatio, 
+                 GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13}, 
                "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                  Directive[
@@ -11627,8 +12117,9 @@ s//TgYWu8KI5Mko+YJmSBHKSptn9A4Cwp2jB9WuG3gOGiicG8zK/Me8SMD9q
          Identity, FormatType :> (Style[
            TraditionalForm[
             SlotSequence[1]], SingleLetterItalics -> True]& ), 
-         Frame -> {{True, None}, {True, None}}, 
-         FrameLabel -> {{None, None}, {
+         Frame -> {{True, None}, {True, None}}, FrameLabel -> {{
+            FormBox[
+             TagBox["\"\[Degree]C\"", HoldForm], TraditionalForm], None}, {
             FormBox[
              TagBox["\"\[Degree]C\"", HoldForm], TraditionalForm], None}}, 
          FrameTicks -> {{Charting`FindScaledTicks[
@@ -11640,9 +12131,9 @@ s//TgYWu8KI5Mko+YJmSBHKSptn9A4Cwp2jB9WuG3gOGiicG8zK/Me8SMD9q
               SlotSequence[1], {4, 2}]& )[
               SlotSequence[1]], {Identity, Identity}]& , Automatic}}, 
          GridLines -> {None, None}, GridLinesStyle -> Directive[
-           GrayLevel[0.5, 0.4]], ImagePadding -> {{50, 5}, {45, 10}}, 
+           GrayLevel[0.5, 0.4]], ImagePadding -> {{80, 5}, {45, 10}}, 
          ImageSize -> 
-         NCache[{55 + 110 GoldenRatio, 165}, {232.98373876248843`, 165}], 
+         NCache[{85 + 110 GoldenRatio, 165}, {262.98373876248843`, 165}], 
          LabelStyle -> 13, 
          Method -> {
           "AxisPadding" -> Scaled[0.02], "DefaultBoundaryStyle" -> Automatic, 
@@ -11792,8 +12283,8 @@ ti/U2b5QZ/v0//s/eUV02w==
                    "Frame" -> {{True, None}, {True, None}}, 
                    "AxesOrigin" -> {24.77083333333339, 0.}, 
                    "ImageSize" -> {
-                    55 + 110 GoldenRatio, 
-                    GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                    85 + 110 GoldenRatio, 
+                    GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                    "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13},
                     "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                     Directive[
@@ -11822,8 +12313,8 @@ ti/U2b5QZ/v0//s/eUV02w==
                   "Frame" -> {{True, None}, {True, None}}, 
                   "AxesOrigin" -> {24.77083333333339, 0.}, 
                   "ImageSize" -> {
-                   55 + 110 GoldenRatio, 
-                    GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                   85 + 110 GoldenRatio, 
+                    GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                   "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13}, 
                   "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                     Directive[
@@ -11878,8 +12369,8 @@ ti/U2b5QZ/v0//s/eUV02w==
                "Frame" -> {{True, None}, {True, None}}, 
                "AxesOrigin" -> {24.77083333333339, 0.}, 
                "ImageSize" -> {
-                55 + 110 GoldenRatio, 
-                 GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                85 + 110 GoldenRatio, 
+                 GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13}, 
                "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                  Directive[
@@ -11904,8 +12395,9 @@ ti/U2b5QZ/v0//s/eUV02w==
          Identity, FormatType :> (Style[
            TraditionalForm[
             SlotSequence[1]], SingleLetterItalics -> True]& ), 
-         Frame -> {{True, None}, {True, None}}, 
-         FrameLabel -> {{None, None}, {
+         Frame -> {{True, None}, {True, None}}, FrameLabel -> {{
+            FormBox[
+             TagBox["\"\[Degree]C\"", HoldForm], TraditionalForm], None}, {
             FormBox[
              TagBox["\"\[Degree]C\"", HoldForm], TraditionalForm], None}}, 
          FrameTicks -> {{Charting`FindScaledTicks[
@@ -11917,9 +12409,9 @@ ti/U2b5QZ/v0//s/eUV02w==
               SlotSequence[1], {4, 2}]& )[
               SlotSequence[1]], {Identity, Identity}]& , Automatic}}, 
          GridLines -> {None, None}, GridLinesStyle -> Directive[
-           GrayLevel[0.5, 0.4]], ImagePadding -> {{50, 5}, {45, 10}}, 
+           GrayLevel[0.5, 0.4]], ImagePadding -> {{80, 5}, {45, 10}}, 
          ImageSize -> 
-         NCache[{55 + 110 GoldenRatio, 165}, {232.98373876248843`, 165}], 
+         NCache[{85 + 110 GoldenRatio, 165}, {262.98373876248843`, 165}], 
          LabelStyle -> 13, 
          Method -> {
           "AxisPadding" -> Scaled[0.02], "DefaultBoundaryStyle" -> Automatic, 
@@ -12064,8 +12556,8 @@ mT4ZY7aD76ucawLrk1G8+sCpNI7yrE9GbvC5tVv1XWB9Mhr6rnar/1kmWZ+M
                    "Frame" -> {{True, None}, {True, None}}, 
                    "AxesOrigin" -> {24.77083333333339, 0.}, 
                    "ImageSize" -> {
-                    55 + 110 GoldenRatio, 
-                    GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                    85 + 110 GoldenRatio, 
+                    GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                    "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13},
                     "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                     Directive[
@@ -12094,8 +12586,8 @@ mT4ZY7aD76ucawLrk1G8+sCpNI7yrE9GbvC5tVv1XWB9Mhr6rnar/1kmWZ+M
                   "Frame" -> {{True, None}, {True, None}}, 
                   "AxesOrigin" -> {24.77083333333339, 0.}, 
                   "ImageSize" -> {
-                   55 + 110 GoldenRatio, 
-                    GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                   85 + 110 GoldenRatio, 
+                    GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                   "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13}, 
                   "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                     Directive[
@@ -12149,8 +12641,8 @@ mT4ZY7aD76ucawLrk1G8+sCpNI7yrE9GbvC5tVv1XWB9Mhr6rnar/1kmWZ+M
                "Frame" -> {{True, None}, {True, None}}, 
                "AxesOrigin" -> {24.77083333333339, 0.}, 
                "ImageSize" -> {
-                55 + 110 GoldenRatio, 
-                 GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                85 + 110 GoldenRatio, 
+                 GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13}, 
                "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                  Directive[
@@ -12175,8 +12667,9 @@ mT4ZY7aD76ucawLrk1G8+sCpNI7yrE9GbvC5tVv1XWB9Mhr6rnar/1kmWZ+M
          Identity, FormatType :> (Style[
            TraditionalForm[
             SlotSequence[1]], SingleLetterItalics -> True]& ), 
-         Frame -> {{True, None}, {True, None}}, 
-         FrameLabel -> {{None, None}, {
+         Frame -> {{True, None}, {True, None}}, FrameLabel -> {{
+            FormBox[
+             TagBox["\"\[Degree]C\"", HoldForm], TraditionalForm], None}, {
             FormBox[
              TagBox["\"\[Degree]C\"", HoldForm], TraditionalForm], None}}, 
          FrameTicks -> {{Charting`FindScaledTicks[
@@ -12188,9 +12681,9 @@ mT4ZY7aD76ucawLrk1G8+sCpNI7yrE9GbvC5tVv1XWB9Mhr6rnar/1kmWZ+M
               SlotSequence[1], {4, 2}]& )[
               SlotSequence[1]], {Identity, Identity}]& , Automatic}}, 
          GridLines -> {None, None}, GridLinesStyle -> Directive[
-           GrayLevel[0.5, 0.4]], ImagePadding -> {{50, 5}, {45, 10}}, 
+           GrayLevel[0.5, 0.4]], ImagePadding -> {{80, 5}, {45, 10}}, 
          ImageSize -> 
-         NCache[{55 + 110 GoldenRatio, 165}, {232.98373876248843`, 165}], 
+         NCache[{85 + 110 GoldenRatio, 165}, {262.98373876248843`, 165}], 
          LabelStyle -> 13, 
          Method -> {
           "AxisPadding" -> Scaled[0.02], "DefaultBoundaryStyle" -> Automatic, 
@@ -12337,8 +12830,8 @@ fTxmoqSTfTzctJN9PAZpJ/t4DNBO9qU72ZfuZF+6k33pTvbl/+//AAt1fFk=
                    "Frame" -> {{True, None}, {True, None}}, 
                    "AxesOrigin" -> {24.77083333333339, 0.}, 
                    "ImageSize" -> {
-                    55 + 110 GoldenRatio, 
-                    GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                    85 + 110 GoldenRatio, 
+                    GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                    "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13},
                     "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                     Directive[
@@ -12367,8 +12860,8 @@ fTxmoqSTfTzctJN9PAZpJ/t4DNBO9qU72ZfuZF+6k33pTvbl/+//AAt1fFk=
                   "Frame" -> {{True, None}, {True, None}}, 
                   "AxesOrigin" -> {24.77083333333339, 0.}, 
                   "ImageSize" -> {
-                   55 + 110 GoldenRatio, 
-                    GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                   85 + 110 GoldenRatio, 
+                    GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                   "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13}, 
                   "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                     Directive[
@@ -12422,8 +12915,8 @@ fTxmoqSTfTzctJN9PAZpJ/t4DNBO9qU72ZfuZF+6k33pTvbl/+//AAt1fFk=
                 179.9999064008288}}, "Frame" -> {{True, None}, {True, None}}, 
                "AxesOrigin" -> {24.77083333333339, 0.}, 
                "ImageSize" -> {
-                55 + 110 GoldenRatio, 
-                 GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                85 + 110 GoldenRatio, 
+                 GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13}, 
                "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                  Directive[
@@ -12448,8 +12941,9 @@ fTxmoqSTfTzctJN9PAZpJ/t4DNBO9qU72ZfuZF+6k33pTvbl/+//AAt1fFk=
          Identity, FormatType :> (Style[
            TraditionalForm[
             SlotSequence[1]], SingleLetterItalics -> True]& ), 
-         Frame -> {{True, None}, {True, None}}, 
-         FrameLabel -> {{None, None}, {
+         Frame -> {{True, None}, {True, None}}, FrameLabel -> {{
+            FormBox[
+             TagBox["\"\[Degree]C\"", HoldForm], TraditionalForm], None}, {
             FormBox[
              TagBox["\"\[Degree]C\"", HoldForm], TraditionalForm], None}}, 
          FrameTicks -> {{Charting`FindScaledTicks[
@@ -12461,9 +12955,9 @@ fTxmoqSTfTzctJN9PAZpJ/t4DNBO9qU72ZfuZF+6k33pTvbl/+//AAt1fFk=
               SlotSequence[1], {4, 2}]& )[
               SlotSequence[1]], {Identity, Identity}]& , Automatic}}, 
          GridLines -> {None, None}, GridLinesStyle -> Directive[
-           GrayLevel[0.5, 0.4]], ImagePadding -> {{50, 5}, {45, 10}}, 
+           GrayLevel[0.5, 0.4]], ImagePadding -> {{80, 5}, {45, 10}}, 
          ImageSize -> 
-         NCache[{55 + 110 GoldenRatio, 165}, {232.98373876248843`, 165}], 
+         NCache[{85 + 110 GoldenRatio, 165}, {262.98373876248843`, 165}], 
          LabelStyle -> 13, 
          Method -> {
           "AxisPadding" -> Scaled[0.02], "DefaultBoundaryStyle" -> Automatic, 
@@ -12612,8 +13106,8 @@ bNIX2aQvsklfZJO+wv/7H+ZUhiM=
                    "Frame" -> {{True, None}, {True, None}}, 
                    "AxesOrigin" -> {24.77083333333339, 0.}, 
                    "ImageSize" -> {
-                    55 + 110 GoldenRatio, 
-                    GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                    85 + 110 GoldenRatio, 
+                    GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                    "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13},
                     "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                     Directive[
@@ -12642,8 +13136,8 @@ bNIX2aQvsklfZJO+wv/7H+ZUhiM=
                   "Frame" -> {{True, None}, {True, None}}, 
                   "AxesOrigin" -> {24.77083333333339, 0.}, 
                   "ImageSize" -> {
-                   55 + 110 GoldenRatio, 
-                    GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                   85 + 110 GoldenRatio, 
+                    GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                   "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13}, 
                   "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                     Directive[
@@ -12698,8 +13192,8 @@ bNIX2aQvsklfZJO+wv/7H+ZUhiM=
                "Frame" -> {{True, None}, {True, None}}, 
                "AxesOrigin" -> {24.77083333333339, 0.}, 
                "ImageSize" -> {
-                55 + 110 GoldenRatio, 
-                 GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                85 + 110 GoldenRatio, 
+                 GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13}, 
                "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                  Directive[
@@ -12724,8 +13218,9 @@ bNIX2aQvsklfZJO+wv/7H+ZUhiM=
          Identity, FormatType :> (Style[
            TraditionalForm[
             SlotSequence[1]], SingleLetterItalics -> True]& ), 
-         Frame -> {{True, None}, {True, None}}, 
-         FrameLabel -> {{None, None}, {
+         Frame -> {{True, None}, {True, None}}, FrameLabel -> {{
+            FormBox[
+             TagBox["\"\[Degree]C\"", HoldForm], TraditionalForm], None}, {
             FormBox[
              TagBox["\"\[Degree]C\"", HoldForm], TraditionalForm], None}}, 
          FrameTicks -> {{Charting`FindScaledTicks[
@@ -12737,9 +13232,9 @@ bNIX2aQvsklfZJO+wv/7H+ZUhiM=
               SlotSequence[1], {4, 2}]& )[
               SlotSequence[1]], {Identity, Identity}]& , Automatic}}, 
          GridLines -> {None, None}, GridLinesStyle -> Directive[
-           GrayLevel[0.5, 0.4]], ImagePadding -> {{50, 5}, {45, 10}}, 
+           GrayLevel[0.5, 0.4]], ImagePadding -> {{80, 5}, {45, 10}}, 
          ImageSize -> 
-         NCache[{55 + 110 GoldenRatio, 165}, {232.98373876248843`, 165}], 
+         NCache[{85 + 110 GoldenRatio, 165}, {262.98373876248843`, 165}], 
          LabelStyle -> 13, 
          Method -> {
           "AxisPadding" -> Scaled[0.02], "DefaultBoundaryStyle" -> Automatic, 
@@ -12886,8 +13381,8 @@ X7izfeHO9h373/8B2IOQaA==
                    "Frame" -> {{True, None}, {True, None}}, 
                    "AxesOrigin" -> {24.77083333333339, 0.}, 
                    "ImageSize" -> {
-                    55 + 110 GoldenRatio, 
-                    GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                    85 + 110 GoldenRatio, 
+                    GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                    "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13},
                     "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                     Directive[
@@ -12916,8 +13411,8 @@ X7izfeHO9h373/8B2IOQaA==
                   "Frame" -> {{True, None}, {True, None}}, 
                   "AxesOrigin" -> {24.77083333333339, 0.}, 
                   "ImageSize" -> {
-                   55 + 110 GoldenRatio, 
-                    GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                   85 + 110 GoldenRatio, 
+                    GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                   "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13}, 
                   "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                     Directive[
@@ -12972,8 +13467,8 @@ X7izfeHO9h373/8B2IOQaA==
                "Frame" -> {{True, None}, {True, None}}, 
                "AxesOrigin" -> {24.77083333333339, 0.}, 
                "ImageSize" -> {
-                55 + 110 GoldenRatio, 
-                 GoldenRatio^(-1) (55 + 110 GoldenRatio)}, 
+                85 + 110 GoldenRatio, 
+                 GoldenRatio^(-1) (85 + 110 GoldenRatio)}, 
                "Axes" -> {False, False}, "LabelStyle" -> {FontSize -> 13}, 
                "AspectRatio" -> GoldenRatio^(-1), "DefaultStyle" -> {
                  Directive[
@@ -12998,8 +13493,9 @@ X7izfeHO9h373/8B2IOQaA==
          Identity, FormatType :> (Style[
            TraditionalForm[
             SlotSequence[1]], SingleLetterItalics -> True]& ), 
-         Frame -> {{True, None}, {True, None}}, 
-         FrameLabel -> {{None, None}, {
+         Frame -> {{True, None}, {True, None}}, FrameLabel -> {{
+            FormBox[
+             TagBox["\"\[Degree]C\"", HoldForm], TraditionalForm], None}, {
             FormBox[
              TagBox["\"\[Degree]C\"", HoldForm], TraditionalForm], None}}, 
          FrameTicks -> {{Charting`FindScaledTicks[
@@ -13011,9 +13507,9 @@ X7izfeHO9h373/8B2IOQaA==
               SlotSequence[1], {4, 2}]& )[
               SlotSequence[1]], {Identity, Identity}]& , Automatic}}, 
          GridLines -> {None, None}, GridLinesStyle -> Directive[
-           GrayLevel[0.5, 0.4]], ImagePadding -> {{50, 5}, {45, 10}}, 
+           GrayLevel[0.5, 0.4]], ImagePadding -> {{80, 5}, {45, 10}}, 
          ImageSize -> 
-         NCache[{55 + 110 GoldenRatio, 165}, {232.98373876248843`, 165}], 
+         NCache[{85 + 110 GoldenRatio, 165}, {262.98373876248843`, 165}], 
          LabelStyle -> 13, 
          Method -> {
           "AxisPadding" -> Scaled[0.02], "DefaultBoundaryStyle" -> Automatic, 
@@ -13109,8 +13605,9 @@ X7izfeHO9h373/8B2IOQaA==
    3.966339020905156*^9}, 3.966695759976294*^9, 3.967312116651677*^9, 
    3.967312634123156*^9, 3.968083765337215*^9, {3.968083819957115*^9, 
    3.968083824516666*^9}, {3.968083912719028*^9, 3.968083930955985*^9}, {
-   3.9680856385865297`*^9, 3.968085642595306*^9}, 3.9681075742337303`*^9},
- CellLabel->"Out[8]=",ExpressionUUID->"1881c022-49de-41f7-801c-7d24fbd8eb9f"]
+   3.9680856385865297`*^9, 3.968085642595306*^9}, 3.9681075742337303`*^9, 
+   3.968157958900107*^9},
+ CellLabel->"Out[89]=",ExpressionUUID->"c499bc9f-0936-4988-a40e-753f927a0dca"]
 }, Open  ]]
 },
 WindowSize->{Full, Full},
@@ -13131,23 +13628,27 @@ CellTagsIndex->{}
 *)
 (*NotebookFileOutline
 Notebook[{
-Cell[558, 20, 743, 16, 111, "Input",ExpressionUUID->"0e5d538e-e191-4874-bd85-d21c4c3f8970"],
-Cell[1304, 38, 495, 12, 121, "Input",ExpressionUUID->"30c93b66-8375-4ee6-b22f-9359f7c1da68"],
+Cell[558, 20, 744, 16, 111, "Input",ExpressionUUID->"0e5d538e-e191-4874-bd85-d21c4c3f8970"],
+Cell[1305, 38, 496, 12, 70, "Input",ExpressionUUID->"30c93b66-8375-4ee6-b22f-9359f7c1da68"],
 Cell[CellGroupData[{
-Cell[1824, 54, 3564, 95, 131, "Input",ExpressionUUID->"8dead499-f180-40e4-90fc-ca416d0ecf1b"],
-Cell[5391, 151, 18548, 403, 182, "Output",ExpressionUUID->"c26d1e8d-2a6d-4d91-bf94-f8837df3106e"]
+Cell[1826, 54, 3614, 96, 111, "Input",ExpressionUUID->"8dead499-f180-40e4-90fc-ca416d0ecf1b"],
+Cell[5443, 152, 18592, 403, 182, "Output",ExpressionUUID->"c5c83d67-a6ec-4624-b118-8e9ff11ec7a1"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[23976, 559, 3761, 100, 151, "Input",ExpressionUUID->"7484f472-1431-411f-8266-207b8ce7d3e7"],
-Cell[27740, 661, 24581, 501, 182, "Output",ExpressionUUID->"03fe4a86-9cc7-477a-a044-bb3498cfaf6c"]
+Cell[24072, 560, 3762, 100, 111, "Input",ExpressionUUID->"7484f472-1431-411f-8266-207b8ce7d3e7"],
+Cell[27837, 662, 24652, 502, 201, "Output",ExpressionUUID->"f8953a7b-c0eb-49a5-9bcd-dd66f5fa92cc"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[52358, 1167, 1565, 34, 49, "Input",ExpressionUUID->"198b633e-e450-4f23-ab09-258d064cd5d3"],
-Cell[53926, 1203, 361196, 6909, 1203, "Output",ExpressionUUID->"f64a29aa-57cf-43b9-a203-73b5a066ea53"]
+Cell[52526, 1169, 558, 14, 29, "Input",ExpressionUUID->"be75bff5-063f-4c0a-a71e-5afdf1954612"],
+Cell[53087, 1185, 18740, 382, 182, "Output",ExpressionUUID->"0282976e-2acc-4c0e-a2ce-63b874fa4f90"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[415159, 8117, 1534, 36, 49, "Input",ExpressionUUID->"20a02a09-1474-4169-a8e8-4e31ce380b2f"],
-Cell[416696, 8155, 242714, 4957, 1222, "Output",ExpressionUUID->"1881c022-49de-41f7-801c-7d24fbd8eb9f"]
+Cell[71864, 1572, 1566, 34, 49, "Input",ExpressionUUID->"198b633e-e450-4f23-ab09-258d064cd5d3"],
+Cell[73433, 1608, 365137, 6982, 1203, "Output",ExpressionUUID->"eb321bcc-9bd4-48c0-b512-5d8bac3f5409"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[438607, 8595, 1535, 36, 49, "Input",ExpressionUUID->"20a02a09-1474-4169-a8e8-4e31ce380b2f"],
+Cell[440145, 8633, 244055, 4976, 1222, "Output",ExpressionUUID->"c499bc9f-0936-4988-a40e-753f927a0dca"]
 }, Open  ]]
 }
 ]

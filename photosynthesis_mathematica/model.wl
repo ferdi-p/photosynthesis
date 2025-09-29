@@ -17,8 +17,8 @@ xT = Min[10^3,xTref1  E^(-\[Sigma]T1/(w+273))/E^(-\[Sigma]T1/(wRef+273))+xTref2 
 
 rT = \[Rho]T;
 
-{RpX,RT,RD}=cX {\[Phi]DpX pX, \[Phi]DpT (pT+pTD), \[Phi]DpD (pD+pTD) (*, \[Phi]DpTD pTD*)};
-xD =Min[10^3,RpX+RT+RD];
+{RpX,RT,RD,RcX}=cX {\[Phi]DpX pX, \[Phi]DpT (pT+pTD), \[Phi]DpD (pD+pTD) (*, \[Phi]DpTD pTD*),\[Phi]DcX};
+xD =Min[10^3,RpX+RT+RD+RcX];
 e = Max[0,hP-\[Epsilon]E];
 rD = \[Phi]R e/(e+\[Kappa]E) 1/(pTD+pD+\[Kappa]D);
 (*rD = \[Rho]D;*)
