@@ -115,7 +115,7 @@ w->(w/.units0)
 },
 #->(L/.units0)&/@{L,hP,gN,gP,gU},
 #->(energy/.units0)&/@{c,cX,n0,n,nX,p,pX,pT,pD,pTD},
-#->("\!\(\*SuperscriptBox[\(s\), \(-1\)]\)")&/@{xD,xT,rD,rT},
+#->("\!\(\*SuperscriptBox[\(s\), \(-1\)]\)")&/@{xD,xT,rD,rT,\[Alpha]C,\[Alpha]P,\[Alpha]N,\[Alpha]U,\[Beta]P,\[Beta]N,\[Phi]N,\[Delta]N},
 {_->""}];
 
 
@@ -152,8 +152,26 @@ gU->"\!\(\*SubscriptBox[\(g\), \(U\)]\)",
 pD->"\!\(\*SubscriptBox[\(p\), \(D\)]\)",
 pT->"\!\(\*SubscriptBox[\(p\), \(T\)]\)",
 pTD->"\!\(\*SubscriptBox[\(p\), \(TD\)]\)",
-xD->"ROS damage rate"
+xD->"ROS damage rate",
+\[Alpha]C->"\!\(\*SubscriptBox[\(\[Alpha]\), \(C\)]\)",
+\[Alpha]P->"\!\(\*SubscriptBox[\(\[Alpha]\), \(P\)]\)",
+\[Alpha]N->"\!\(\*SubscriptBox[\(\[Alpha]\), \(N\)]\)",
+\[Alpha]U->"\!\(\*SubscriptBox[\(\[Alpha]\), \(U\)]\)",
+\[Beta]P->"\!\(\*SubscriptBox[\(\[Beta]\), \(P\)]\)",
+\[Beta]N->"\!\(\*SubscriptBox[\(\[Beta]\), \(N\)]\)",
+\[Phi]N->"\!\(\*SubscriptBox[\(\[Phi]\), \(N\)]\)",
+\[Delta]N->"\!\(\*SubscriptBox[\(\[Delta]\), \(N\)]\)"
 };
+
+namesUTF8={
+\[Alpha]C->"alphaC",
+\[Alpha]P->"alphaP",
+\[Alpha]N->"alphaN",
+\[Alpha]U->"alphaU",
+\[Beta]P->"betaP",
+\[Beta]N->"betaN",
+\[Phi]N->"phiN",
+\[Delta]N->"deltaN"};
 
 namesVerbal={
 gP->"photochemistry",

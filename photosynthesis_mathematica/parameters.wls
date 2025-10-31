@@ -53,8 +53,6 @@ ini[n0]->totaln,
 ini[nX]->0,
 ini[n]->0,
 
-ini[d]->0,
-
 L->200,
 w->28,
 
