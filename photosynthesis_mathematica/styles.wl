@@ -217,7 +217,7 @@ logTicks=Table[{10^i,("10")^ToString@i},{i,-10,10,2}];
 
 
 plotSimulationStitch[Quantity_,parsTimesToShowList_,options_]:=Show[Table[plotSimulation[Quantity,parsTimesToShow[[1]],parsTimesToShow[[2]],Join[options,{PlotRange->Full,ScalingFunctions->{"Log",Automatic}}]],{parsTimesToShow,parsTimesToShowList}],PlotRange->{0,Full},Exclusions->None,FrameTicks->{{Log@#[[1]],#[[2]]}&/@logTicks[[1;;-1;;2]],Automatic}];
-plotSimulationStitch[FvFm,Table[{Join[{L->1500,tmin->0,tmax-> "tmax"/.timeRange[i]},pars[i]],{"tmin"/.timeRange[i],"tmax"/.timeRange[i]}},{i,2,8,1}],{}]
+(*plotSimulationStitch[FvFm,Table[{Join[{L->1500,tmin->0,tmax-> "tmax"/.timeRange[i]},pars[i]],{"tmin"/.timeRange[i],"tmax"/.timeRange[i]}},{i,2,8,1}],{}]*)
 
 
 
