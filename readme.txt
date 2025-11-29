@@ -1,3 +1,3 @@
 Code and figures for 
 
-"A model for heat stress in photosynthesis"
+"A model for heat and light stress in photosynthesis"
