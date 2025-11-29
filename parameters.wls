@@ -123,7 +123,7 @@ total[c]=ini[c]+ini[cX];
 total[p]=ini[p]+ini[pX];
 total[n]=ini[n0]+ini[n]+ini[nX];
 
-(*the \[Gamma]'s for time scaling, together with time ranges for which they are good*)
+(*the \[Gamma]'s for time scaling, together with time ranges for which they are typically good*)
 timeScaleList=Table[
 Module[{x},
 x = {
