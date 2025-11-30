@@ -123,12 +123,7 @@ w->(w/.units0)
 names={
 ROSDamage->"ROS-damage",
 heatDamage->"heat-damage",
-health->"functional",(*
-damage->"photo-damage",
-inhibited->"heat inhibited",*)
-RpX->"\!\(\*SubscriptBox[\(R\), SuperscriptBox[\(P\), \(*\)]]\)",
-RD->"\!\(\*SubscriptBox[\(R\), SubscriptBox[\(P\), \(D\)]]\)",
-RT->"\!\(\*SubscriptBox[\(R\), SubscriptBox[\(P\), \(T\)]]\)",
+health->"functional",
 YP->"Y(II)",
 YN->"Y(NPQ)",
 YU->"Y(NO)",
@@ -161,7 +156,11 @@ xD->"ROS damage rate",
 \[Beta]P->"\!\(\*SubscriptBox[\(\[Beta]\), \(P\)]\)",
 \[Beta]N->"\!\(\*SubscriptBox[\(\[Beta]\), \(N\)]\)",
 \[Phi]N->"\!\(\*SubscriptBox[\(\[Phi]\), \(N\)]\)",
-\[Delta]N->"\!\(\*SubscriptBox[\(\[Delta]\), \(N\)]\)"
+\[Delta]N->"\!\(\*SubscriptBox[\(\[Delta]\), \(N\)]\)",
+\[Gamma]C->"\!\(\*SubscriptBox[\(\[Gamma]\), \(C\)]\)",
+\[Gamma]P->"\!\(\*SubscriptBox[\(\[Gamma]\), \(P\)]\)",
+\[Gamma]N->"\!\(\*SubscriptBox[\(\[Gamma]\), \(N\)]\)",
+\[Gamma]N0->"\!\(\*SubscriptBox[\(\[Gamma]\), SubscriptBox[\(N\), \(0\)]]\)"
 };
 
 namesUTF8={
@@ -285,3 +284,7 @@ widgetHeat=Rasterize[Magnify[Import[NotebookDirectory[]<>"widgets/thermometer.pn
 widgetModerate=Rasterize[Magnify[Import[NotebookDirectory[]<>"widgets/leaf.png"],.1]];
 widgetSun=Import[NotebookDirectory[]<>"widgets/simple_sun.png"];
 widgetMoon=Import[NotebookDirectory[]<>"widgets/simple_crescent.png"];
+
+
+Clear@finalState;
+finalState[pars_]:=finalState[pars]=Module[{sol=simulate[pars]},#->(#[0.99tmax]/.pars/.sol)&/@vars];
