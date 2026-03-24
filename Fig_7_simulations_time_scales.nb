@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[   2747754,      50226]
-NotebookOptionsPosition[   2746908,      50203]
-NotebookOutlinePosition[   2747333,      50220]
-CellTagsIndexPosition[   2747290,      50217]
+NotebookDataLength[   2747078,      50206]
+NotebookOptionsPosition[   2746232,      50183]
+NotebookOutlinePosition[   2746657,      50200]
+CellTagsIndexPosition[   2746614,      50197]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -56,7 +56,7 @@ Cell[BoxData[{
    3.950798376968477*^9, 3.950798377301033*^9}, 3.95097566898456*^9, {
    3.963669263170978*^9, 3.963669294974203*^9}, {3.9636693980275383`*^9, 
    3.963669399730093*^9}, 3.963684356461009*^9, 3.972040515044384*^9},
- CellLabel->"In[4]:=",ExpressionUUID->"dfe4795c-f67d-45f3-b6fe-549af9ee70ca"],
+ CellLabel->"In[1]:=",ExpressionUUID->"dfe4795c-f67d-45f3-b6fe-549af9ee70ca"],
 
 Cell[CellGroupData[{
 
@@ -128,7 +128,7 @@ Cell[BoxData[{
    3.972040482652712*^9}, {3.973166386383724*^9, 3.973166387230587*^9}, 
    3.973169775455474*^9, {3.97343710914887*^9, 3.973437136330081*^9}, {
    3.973451665865782*^9, 3.973451675810162*^9}},
- CellLabel->"In[5]:=",ExpressionUUID->"8fc02977-8b1a-4769-bdc6-3d1c011c21cc"],
+ CellLabel->"In[2]:=",ExpressionUUID->"8fc02977-8b1a-4769-bdc6-3d1c011c21cc"],
 
 Cell[BoxData[
  StyleBox[
@@ -30044,12 +30044,8 @@ PXaYtQMdU5Rw7hXr++hxW9cS9R4Cz9DFtX7XG1h/RP8Bu3cgtg==
                 Part[#, 1]], 
                (Identity[#]& )[
                 Part[#, 2]]}& )}}, PlotInteractivity :> True, PlotLabel -> 
-         FormBox[
-           
-           RowBox[{"\[Mu]pX", " ", 
-             "\"\\!\\(\\*SuperscriptBox[\\(c\\), \\(*\\)]\\)\"", " ", 
-             "\"\\!\\(\\*SuperscriptBox[\\(p\\), \\(*\\)]\\)\""}], 
-           TraditionalForm], PlotRange -> {0, Full}, PlotRangeClipping -> 
+         FormBox["\"\\!\\(\\*SubscriptBox[\\(R\\), SuperscriptBox[\\(P\\), \
+\\(*\\)]]\\)\"", TraditionalForm], PlotRange -> {0, Full}, PlotRangeClipping -> 
          True, PlotRangePadding -> {{
             Scaled[0.02], 
             Scaled[0.02]}, {
@@ -32272,16 +32268,8 @@ C8wyTotnmEj/MZt715MvejC5I2TW0UFrGF5R/wTM6Xa0iraSz5pivbeZGHzI
                 Part[#, 1]], 
                (Identity[#]& )[
                 Part[#, 2]]}& )}}, PlotInteractivity :> True, PlotLabel -> 
-         FormBox[
-           
-           RowBox[{"\[Mu]pT", " ", 
-             "\"\\!\\(\\*SuperscriptBox[\\(c\\), \\(*\\)]\\)\"", " ", 
-             RowBox[{"(", 
-               
-               RowBox[{
-                "\"\\!\\(\\*SubscriptBox[\\(p\\), \\(T\\)]\\)\"", "+", 
-                 "\"\\!\\(\\*SubscriptBox[\\(p\\), \\(TD\\)]\\)\""}], ")"}]}],
-            TraditionalForm], PlotRange -> {0, Full}, PlotRangeClipping -> 
+         FormBox["\"\\!\\(\\*SubscriptBox[\\(R\\), \\(T\\)]\\)\"", 
+           TraditionalForm], PlotRange -> {0, Full}, PlotRangeClipping -> 
          True, PlotRangePadding -> {{
             Scaled[0.02], 
             Scaled[0.02]}, {
@@ -34960,16 +34948,8 @@ JeSjfu03rYqDT3P/A9Z57aw=
                 Part[#, 1]], 
                (Identity[#]& )[
                 Part[#, 2]]}& )}}, PlotInteractivity :> True, PlotLabel -> 
-         FormBox[
-           
-           RowBox[{"\[Mu]pD", " ", 
-             "\"\\!\\(\\*SuperscriptBox[\\(c\\), \\(*\\)]\\)\"", " ", 
-             RowBox[{"(", 
-               
-               RowBox[{
-                "\"\\!\\(\\*SubscriptBox[\\(p\\), \\(D\\)]\\)\"", "+", 
-                 "\"\\!\\(\\*SubscriptBox[\\(p\\), \\(TD\\)]\\)\""}], ")"}]}],
-            TraditionalForm], PlotRange -> {0, Full}, PlotRangeClipping -> 
+         FormBox["\"\\!\\(\\*SubscriptBox[\\(R\\), \\(D\\)]\\)\"", 
+           TraditionalForm], PlotRange -> {0, Full}, PlotRangeClipping -> 
          True, PlotRangePadding -> {{
             Scaled[0.02], 
             Scaled[0.02]}, {
@@ -50109,8 +50089,8 @@ iLBSvJN1spamNBHjlN9/l1DgBg==
    3.973171664414874*^9}, {3.97317169951781*^9, 3.9731717180808277`*^9}, {
    3.9731717589987307`*^9, 3.973171850663714*^9}, {3.973172193001173*^9, 
    3.973172420250433*^9}, 3.9734371406275*^9, 3.973451680832491*^9, 
-   3.973510793832623*^9},
- CellLabel->"Out[6]=",ExpressionUUID->"310cd56d-b79c-4215-9576-9334d5140c9d"]
+   3.973510793832623*^9, 3.973557131217197*^9},
+ CellLabel->"Out[3]=",ExpressionUUID->"20aea14f-9e4c-4418-b4e8-69f23d55f207"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -50222,11 +50202,11 @@ Notebook[{
 Cell[558, 20, 2158, 38, 166, "Input",ExpressionUUID->"dfe4795c-f67d-45f3-b6fe-549af9ee70ca"],
 Cell[CellGroupData[{
 Cell[2741, 62, 2887, 68, 289, "Input",ExpressionUUID->"8fc02977-8b1a-4769-bdc6-3d1c011c21cc"],
-Cell[5631, 132, 2737539, 49980, 1804, "Output",ExpressionUUID->"310cd56d-b79c-4215-9576-9334d5140c9d"]
+Cell[5631, 132, 2736863, 49960, 1817, "Output",ExpressionUUID->"20aea14f-9e4c-4418-b4e8-69f23d55f207"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[2743207, 50117, 1970, 50, 197, "Input",ExpressionUUID->"db626c4e-146f-4b8e-98d0-0c3ad6db2a0d"],
-Cell[2745180, 50169, 1712, 31, 363, "Output",ExpressionUUID->"d3b8650a-e26d-4d38-809d-738d013a036f"]
+Cell[2742531, 50097, 1970, 50, 197, "Input",ExpressionUUID->"db626c4e-146f-4b8e-98d0-0c3ad6db2a0d"],
+Cell[2744504, 50149, 1712, 31, 350, "Output",ExpressionUUID->"d3b8650a-e26d-4d38-809d-738d013a036f"]
 }, Open  ]]
 }
 ]

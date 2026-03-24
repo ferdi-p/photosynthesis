@@ -104,26 +104,39 @@ units0={
 L->"\[Mu]mol quanta \!\(\*SuperscriptBox[\(m\), \(-\(2\)\(\\\ \)\)]\)\!\(\*SuperscriptBox[\(s\), \(-1\)]\)",
 w->"\[Degree]C",
 W->"\[Degree]C",
-energy->"\[Mu]mol quanta \!\(\*SuperscriptBox[\(m\), \(-2\)]\)"(*,
-,_->""*)
+energy->"\[Mu]mol quanta \!\(\*SuperscriptBox[\(m\), \(-2\)]\)"
 };
-units=
+units =
 Join[
-#->""&/@{YP,YN,YU},
-#->"\!\(\*SuperscriptBox[\(s\), \(-1\)]\)"&/@{RpX,RT,RD},
-{
-w->(w/.units0)
-},
-#->(L/.units0)&/@{L,hP,gN,gP,gU},
-#->(energy/.units0)&/@{c,cX,n0,n,nX,p,pX,pT,pD,pTD},
-#->("\!\(\*SuperscriptBox[\(s\), \(-1\)]\)")&/@{xD,xT,rD,rT,\[Alpha]C,\[Alpha]P,\[Alpha]N,\[Alpha]U,\[Beta]P,\[Beta]N,\[Phi]N,\[Delta]N},
-{_->""}];
+  # -> "" & /@ {YP, YN, YU, \[Rho]D},
+  # -> "\!\(\*SuperscriptBox[\(s\), \(-1\)]\)" & /@ {RpX, RT, RD},
+  {
+    w -> (w /. units0),
+    W -> (W /. units0),
+    Wref -> (w /. units0)
+  },
+  # -> (L /. units0) & /@ {L, hP, gN, gP, gU, \[Kappa]E, \[Epsilon]E},
+  # -> (energy /. units0) & /@ {c, cX, n0, n, nX, p, pX, pT, pD, pTD, totalc, totalp, totaln, \[Kappa]D},
+  # -> "\!\(\*SuperscriptBox[\(s\), \(-1\)]\)" & /@ {
+    xD, xT, rD, rT,
+    \[Alpha]C, \[Alpha]P, \[Alpha]N, \[Alpha]U,
+    \[Beta]P, \[Beta]N, \[Phi]N, \[Delta]N,
+    \[Rho]T, \[Gamma]T1, \[Gamma]T2,
+    \[Mu]pX, \[Mu]pD, \[Mu]pT, \[Rho]D
+  },
+  # -> (w /. units0) & /@ {\[Sigma]T1, \[Sigma]T2},
+  {_ -> ""}
+];
+
 
 
 names={
 ROSDamage->"ROS-damage",
 heatDamage->"heat-damage",
 health->"functional",
+RpX->"\!\(\*SubscriptBox[\(R\), SuperscriptBox[\(P\), \(*\)]]\)",
+RT->"\!\(\*SubscriptBox[\(R\), \(T\)]\)",
+RD->"\!\(\*SubscriptBox[\(R\), \(D\)]\)",
 YP->"Y(II)",
 YN->"Y(NPQ)",
 YU->"Y(NO)",
@@ -160,18 +173,51 @@ xD->"ROS damage rate",
 \[Gamma]C->"\!\(\*SubscriptBox[\(\[Gamma]\), \(C\)]\)",
 \[Gamma]P->"\!\(\*SubscriptBox[\(\[Gamma]\), \(P\)]\)",
 \[Gamma]N->"\!\(\*SubscriptBox[\(\[Gamma]\), \(N\)]\)",
-\[Gamma]N0->"\!\(\*SubscriptBox[\(\[Gamma]\), SubscriptBox[\(N\), \(0\)]]\)"
+\[Gamma]N0->"\!\(\*SubscriptBox[\(\[Gamma]\), SubscriptBox[\(N\), \(0\)]]\)",
+totalc->"|c|",
+totalp->"|p|",
+totaln->"|n|",
+\[Kappa]E->"\!\(\*SubscriptBox[\(\[Kappa]\), \(E\)]\)",
+\[Epsilon]E->"\!\(\*SubscriptBox[\(\[Epsilon]\), \(E\)]\)",
+\[Sigma]T1->"\!\(\*SubscriptBox[\(\[Sigma]\), \(T1\)]\)",
+\[Sigma]T2->"\!\(\*SubscriptBox[\(\[Sigma]\), \(T2\)]\)",
+\[Rho]T->"\!\(\*SubscriptBox[\(\[Rho]\), \(T\)]\)",
+\[Gamma]T1->"\!\(\*SubscriptBox[\(\[Gamma]\), \(T1\)]\)",
+\[Gamma]T2->"\!\(\*SubscriptBox[\(\[Gamma]\), \(T2\)]\)",
+\[Mu]pX->"\!\(\*SubscriptBox[\(\[Mu]\), SuperscriptBox[\(P\), \(*\)]]\)",
+\[Mu]pD->"\!\(\*SubscriptBox[\(\[Mu]\), SubscriptBox[\(P\), \(D\)]]\)",
+\[Mu]pT->"\!\(\*SubscriptBox[\(\[Mu]\), SubscriptBox[\(P\), \(T\)]]\)",
+\[Rho]D->"\!\(\*SubscriptBox[\(\[Phi]\), \(R\)]\)",
+\[Kappa]D->"\!\(\*SubscriptBox[\(\[Kappa]\), \(D\)]\)",
+\[Rho]D->"\!\(\*SubscriptBox[\(\[Rho]\), \(D\)]\)"
 };
 
-namesUTF8={
-\[Alpha]C->"alphaC",
-\[Alpha]P->"alphaP",
-\[Alpha]N->"alphaN",
-\[Alpha]U->"alphaU",
-\[Beta]P->"betaP",
-\[Beta]N->"betaN",
-\[Phi]N->"phiN",
-\[Delta]N->"deltaN"};
+namesUTF8 = {
+  \[Alpha]C -> "alphaC",
+  \[Alpha]P -> "alphaP",
+  \[Alpha]N -> "alphaN",
+  \[Alpha]U -> "alphaU",
+  \[Beta]P -> "betaP",
+  \[Beta]N -> "betaN",
+  \[Phi]N -> "phiN",
+  \[Delta]N -> "deltaN",
+  totalc -> "totalc",
+  totalp -> "totalp",
+  totaln -> "totaln",
+  \[Kappa]E -> "kappaE",
+  \[Epsilon]E -> "epsilonE",
+  \[Sigma]T1 -> "sigmaT1",
+  \[Sigma]T2 -> "sigmaT2",
+  \[Rho]T -> "rhoT",
+  \[Gamma]T1 -> "gammaT1",
+  \[Gamma]T2 -> "gammaT2",
+  \[Mu]pX -> "muPX",
+  \[Mu]pD -> "muPD",
+  \[Mu]pT -> "muPT",
+  \[Kappa]D -> "kappaD",
+  \[Rho]D -> "rhoD"
+};
+
 
 namesVerbal={
 gP->"photochemistry",
@@ -236,7 +282,15 @@ FrameLabel->{{quant/.units,None},
 Joined->True,
 PlotStyle->thickness,
 Evaluate@style];
-(*NEED TO CHANGE TO SINGLE QUANT SO THAT WE CAN FIX FRAMELABEL*)
+
+
+
+makeOneSimulationSensitivityIndex[pars_,focalpar_,focalparrange_,quant_,tend_]:=Module[{finalStateList=Table[
+Module[
+{parsIterated=Join[{focalpar->x,tmax->tend},pars]},
+quant/.finalState[parsIterated]/.parsIterated],
+{x,focalparrange}]},(Max[finalStateList]-Min[finalStateList])/Max[finalStateList]];
+(*makeOneSimulationSensitivityIndex[pars[0],sensitivityPar,Table[i sensitivityPar/.pars[0],{i,minSensitivityRange,maxSensitivityRange,stepSensitivityRange}],quant, 24 3600]*)
 
 
 GridMap[f_,nestedList_,optionsRows_:{},optionsColumns_:{}]:=Style[Column[Row[#,optionsRows]&/@Map[f,nestedList,{2}],Evaluate@optionsColumns,Alignment->Center],LineBreakWithin->False];
@@ -288,3 +342,9 @@ widgetMoon=Import[NotebookDirectory[]<>"widgets/simple_crescent.png"];
 
 Clear@finalState;
 finalState[pars_]:=finalState[pars]=Module[{sol=simulate[pars]},#->(#[0.99tmax]/.pars/.sol)&/@vars];
+
+
+SetOptions[
+  $FrontEndSession,
+  SingleLetterItalics -> False
+]

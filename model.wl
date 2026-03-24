@@ -22,7 +22,7 @@ xD =Min[10^3,RpX+RT+RD+RcX];
 
 (*ROS-damage repair*)
 e = Max[0,hP-\[Epsilon]E];
-rD = \[Phi]R e/(e+\[Kappa]E) 1/(pTD+pD+\[Kappa]D);
+rD = \[Rho]D e/(e+\[Kappa]E) 1/(pTD+pD+\[Kappa]D);
 
 
 (*heat-damage creation and repair*)
@@ -51,6 +51,11 @@ nX->\[Gamma]N(gN-hN)
 vars=ODEs[[All,1]];
 (*replacement rule to add time argument*)
 addTime=#->#[t]&/@vars;
+
+ini[_]=0;
+ini[n0]=totaln;
+ini[p]=totalp;
+ini[c]=totalc;
 
 (*put together ODEs with parameter pars, with time argument and initial conditions*)
 equations[pars_]:=Flatten[{

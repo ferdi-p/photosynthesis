@@ -76,12 +76,10 @@ wRef->35.`,
 \[Mu]pT->600,
 \[Mu]cX->0,
 
-
-\[Phi]R-> 3600^-1 totalp,
 \[Kappa]D->.1 totalp,
-\[Rho]D->(2 3600.)^-1,
+\[Rho]D->3600^-1 totalp(*(2 3600.)^-1*),
 
-(*initial values*)
+(*(*initial values*)
 
 ini[c]->totalc,
 ini[cX]->0,
@@ -95,7 +93,7 @@ ini[pTD]->0,
 ini[n0]->totaln,
 ini[nX]->0,
 ini[n]->0,
-
+*)
 (*default time span*)
 
 tmin->0,
