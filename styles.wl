@@ -13,7 +13,7 @@ ImagePaddingLeftTop={{50,5},{40,40}};
 ImagePaddingUnits={{50,5},{45,10}};
 ImagePaddingYUnits={{55,5},{20,10}};
 (*ImagePaddingUnitsNarrow={{30,5},{20,5}};*)
-ImagePaddingExtra={{80,5},{45,10}};
+ImagePaddingExtra={{80,17},{45,10}};
 ImagePaddingExtra2={{65,0},{45,10}};
 ImagePaddingExtra3={{70,0},{45,10}};
 ImagePaddingXunits={{40,5},{45,10}};
@@ -104,30 +104,34 @@ units0={
 L->"\[Mu]mol quanta \!\(\*SuperscriptBox[\(m\), \(-\(2\)\(\\\ \)\)]\)\!\(\*SuperscriptBox[\(s\), \(-1\)]\)",
 w->"\[Degree]C",
 W->"\[Degree]C",
-energy->"\[Mu]mol quanta \!\(\*SuperscriptBox[\(m\), \(-2\)]\)"
+energy->"\[Mu]mol quanta \!\(\*SuperscriptBox[\(m\), \(-2\)]\)",
+perSecond->"\!\(\*SuperscriptBox[\(s\), \(-1\)]\)",
+perEnergyperSecond->"(\[Mu]mol quanta \!\(\*SuperscriptBox[\(m\), \(-2\)]\)\!\(\*SuperscriptBox[\()\), \(-1\)]\) \!\(\*SuperscriptBox[\(s\), \(-1\)]\)",
+perEnergy2perSecond->"(\[Mu]mol quanta \!\(\*SuperscriptBox[\(m\), \(-2\)]\)\!\(\*SuperscriptBox[\()\), \(-2\)]\) \!\(\*SuperscriptBox[\(s\), \(-1\)]\)",
+perEnergy->"(\[Mu]mol quanta \!\(\*SuperscriptBox[\(m\), \(-2\)]\)\!\(\*SuperscriptBox[\()\), \(-1\)]\)"
 };
 units =
 Join[
-  # -> "" & /@ {YP, YN, YU, \[Rho]D},
-  # -> "\!\(\*SuperscriptBox[\(s\), \(-1\)]\)" & /@ {RpX, RT, RD},
+  # -> "" & /@ {YP, YN, YU},
+  # -> (perSecond/.units0) & /@ {RpX, RT, RD},
   {
     w -> (w /. units0),
     W -> (W /. units0),
     Wref -> (w /. units0)
   },
-  # -> (L /. units0) & /@ {L, hP, gN, gP, gU, \[Kappa]E, \[Epsilon]E},
+  # -> (L /. units0) & /@ {L, hP, gN, gP, gU, \[Kappa]E, \[Epsilon]E,\[Rho]D},
   # -> (energy /. units0) & /@ {c, cX, n0, n, nX, p, pX, pT, pD, pTD, totalc, totalp, totaln, \[Kappa]D},
-  # -> "\!\(\*SuperscriptBox[\(s\), \(-1\)]\)" & /@ {
-    xD, xT, rD, rT,
-    \[Alpha]C, \[Alpha]P, \[Alpha]N, \[Alpha]U,
-    \[Beta]P, \[Beta]N, \[Phi]N, \[Delta]N,
-    \[Rho]T, \[Gamma]T1, \[Gamma]T2,
-    \[Mu]pX, \[Mu]pD, \[Mu]pT, \[Rho]D
+  # -> (perEnergyperSecond/.units0) & /@ {\[Alpha]N,\[Alpha]P,\[Phi]N},
+  # -> (perEnergy2perSecond/.units0) & /@ {\[Mu]pX, \[Mu]pD, \[Mu]pT},
+  # -> (perEnergy/.units0) & /@ {\[Alpha]C},
+  # -> (perSecond/.units0) & /@ {
+    xD, xT, rD, rT, \[Alpha]U,
+    \[Beta]P, \[Beta]N, \[Delta]N,
+    \[Rho]T, \[Gamma]T1, \[Gamma]T2
   },
   # -> (w /. units0) & /@ {\[Sigma]T1, \[Sigma]T2},
   {_ -> ""}
 ];
-
 
 
 names={
@@ -281,6 +285,9 @@ FrameLabel->{{quant/.units,None},
 {focalpar/.units,None}},
 Joined->True,
 PlotStyle->thickness,
+FrameTicksStyle -> Directive[FontSize -> 11],
+FrameTicks->{{autoTicks,Automatic},
+{autoTicks,Automatic}},
 Evaluate@style];
 
 
